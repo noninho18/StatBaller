@@ -59,7 +59,8 @@ def scrape_commented_data(url,columns):
 
                 row_data = [cell.text.strip() for cell in cells]
                 data.append(row_data)
-
+            
+            print(data)
             df = pd.DataFrame(data, columns=columns)
             print(df)
             df['Nation'] = df['Nation'].apply(lambda x: x[-3:].strip())
