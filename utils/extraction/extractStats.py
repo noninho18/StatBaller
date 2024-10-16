@@ -22,7 +22,7 @@ def scrape_data(url, columns):
 
             row_data = [cell.text.strip() for cell in cells]
             data.append(row_data)
-
+ 
         df = pd.DataFrame(data, columns=columns)
         df['Nation'] = df['Nation'].apply(lambda x: x[-3:].strip())
         df['Comp'] = df['Comp'].apply(lambda x: " ".join(x.split()[1:]))
@@ -59,11 +59,12 @@ def scrape_commented_data(url,columns):
 
                 row_data = [cell.text.strip() for cell in cells]
                 data.append(row_data)
-            
-            print(data)
+
             df = pd.DataFrame(data, columns=columns)
-            print(df)
-            df['Nation'] = df['Nation'].apply(lambda x: x[-3:].strip())
+            if 'Nation' in df.columns:
+                df['Nation'] = df['Nation'].apply(lambda x: x[-3:].strip())
+            if 'Club' in df.columns:
+                df['Club'] = df['Club'].apply(lambda x: " ".join(x.split()[1:]))
             df['Squad'] = df['Squad'].apply(lambda x: " ".join(x.split()[1:]))
             df.drop(columns=['Rk','Matches'], inplace=True)
             return df

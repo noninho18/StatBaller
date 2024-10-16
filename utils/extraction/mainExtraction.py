@@ -9,17 +9,33 @@ def data_to_csv(leagues, columns, filename):
         folder = "Data/"
         year = re.search(r"\d{4}-\d{4}", url)
         if year == None:
-            folder+= "2024-2025/"+filename
+            if 'Copa-America' in url :
+                folder+= "Int_comps/CopaAmerica2024/"+filename
+            elif 'UEFA-Euro' in url :
+                folder+= "Int_comps/EURO_2024/"+filename
+            elif 'World-Cup' in url :
+                folder+= "Int_comps/WC_2022/"+filename
+            elif 'Brasil2024' in league_name:
+                folder+= "2024/"+filename
+            elif 'Brasil2023' in league_name:
+                folder+= "2023/"+filename
+            else:    
+                folder+= "2024-2025/"+filename
         else :
             folder+= year.group()+"/"+filename
         print(f"Scraping {league_name}...")
-        if 'Champions_League' in league_name or 'Europa_League' in league_name:
+        if 'Top_5_Leagues' not in league_name:
             if 'Comp' in columns:
                 columns.remove('Comp')
+            if 'CopaAmerica' in league_name or 'Euro2024' in league_name or 'WorldCup' in league_name:
+                if 'Nation' in columns:
+                    columns.remove('Nation')
+                if 'WorldCup' in league_name:
+                    columns = columns[:5] + ['Club'] + columns[5:]
             data = scrape_commented_data(url, columns)
         else: 
             data = scrape_data(url, columns)
-        if league_name[-1] in '123':
+        if league_name[-1] in '13':
             league_name = league_name[:-1]
         print(f"{league_name} scraped successfully with {len(data)} rows.")
         league_data.append(data)
@@ -34,9 +50,23 @@ def basic_stats_scrape():
 
     leagues = {
         'Top_5_Leagues' : 'https://fbref.com/en/comps/Big5/stats/players/Big-5-European-Leagues-Stats',
+        'Top_5_Leagues1' :'https://fbref.com/en/comps/Big5/2023-2024/stats/players/2023-2024-Big-5-European-Leagues-Stats',
+        'Top_5_Leagues3' :'https://fbref.com/en/comps/Big5/2022-2023/stats/players/2022-2023-Big-5-European-Leagues-Stats',
+        'Primeira_Liga':'https://fbref.com/en/comps/32/stats/Primeira-Liga-Stats',
+        'Primeira_Liga1': 'https://fbref.com/en/comps/32/2023-2024/stats/2023-2024-Primeira-Liga-Stats',
+        'Brasil2024SerieA':'https://fbref.com/en/comps/24/stats/Serie-A-Stats',
+        'Brasil2023SerieA':'https://fbref.com/en/comps/24/2023/stats/2023-Serie-A-Stats',
+        'Belgian_Pro_League':'https://fbref.com/en/comps/37/stats/Belgian-Pro-League-Stats',
+        'Belgian_Pro_League1':'https://fbref.com/en/comps/37/2023-2024/stats/2023-2024-Belgian-Pro-League-Stats',
         'Champions_League' : 'https://fbref.com/en/comps/8/stats/Champions-League-Stats',
+        'Champions_League1': 'https://fbref.com/en/comps/8/2023-2024/stats/2023-2024-Champions-League-Stats',
+        'Champions_League3':'https://fbref.com/en/comps/8/2022-2023/stats/2022-2023-Champions-League-Stats',
         'Europa_League' : 'https://fbref.com/en/comps/19/stats/Europa-League-Stats',
-        'Champions_League1': 'https://fbref.com/en/comps/8/2023-2024/stats/2023-2024-Champions-League-Stats'
+        'Europa_League1' :'https://fbref.com/en/comps/19/2023-2024/stats/2023-2024-Europa-League-Stats',
+        'Europa_League3' :'https://fbref.com/en/comps/19/2022-2023/stats/2022-2023-Europa-League-Stats',
+        'CopaAmerica2024' : 'https://fbref.com/en/comps/685/stats/Copa-America-Stats',
+        'Euro2024':'https://fbref.com/en/comps/676/stats/UEFA-Euro-Stats',
+        'WorldCup2022':'https://fbref.com/en/comps/1/stats/World-Cup-Stats'
     }
     
     columns = [
@@ -53,8 +83,23 @@ def GK_stats_scrape():
 
     leagues = {
         'Top_5_Leagues' : 'https://fbref.com/en/comps/Big5/keepers/players/Big-5-European-Leagues-Stats',
+        'Top_5_Leagues1' :'https://fbref.com/en/comps/Big5/2023-2024/keepers/players/2023-2024-Big-5-European-Leagues-Stats',
+        'Top_5_Leagues3' :'https://fbref.com/en/comps/Big5/2022-2023/keepers/players/2022-2023-Big-5-European-Leagues-Stats',
+        'Primeira_Liga':'https://fbref.com/en/comps/32/keepers/Primeira-Liga-Stats',
+        'Primeira_Liga1': 'https://fbref.com/en/comps/32/2023-2024/keepers/2023-2024-Primeira-Liga-Stats',
+        'Brasil2024SerieA':'https://fbref.com/en/comps/24/keepers/Serie-A-Stats',
+        'Brasil2023SerieA':'https://fbref.com/en/comps/24/2023/keepers/2023-Serie-A-Stats',
+        'Belgian_Pro_League':'https://fbref.com/en/comps/37/keepers/Belgian-Pro-League-Stats',
+        'Belgian_Pro_League1':'https://fbref.com/en/comps/37/2023-2024/keepers/2023-2024-Belgian-Pro-League-Stats',
         'Champions_League' : 'https://fbref.com/en/comps/8/keepers/Champions-League-Stats',
-        'Europa_League' : 'https://fbref.com/en/comps/19/keepers/Europa-League-Stats'
+        'Champions_League1': 'https://fbref.com/en/comps/8/2023-2024/keepers/2023-2024-Champions-League-Stats',
+        'Champions_League3':'https://fbref.com/en/comps/8/2022-2023/keepers/2022-2023-Champions-League-Stats',
+        'Europa_League' : 'https://fbref.com/en/comps/19/keepers/Europa-League-Stats',
+        'Europa_League1' :'https://fbref.com/en/comps/19/2023-2024/keepers/2023-2024-Europa-League-Stats',
+        'Europa_League3' :'https://fbref.com/en/comps/19/2022-2023/keepers/2022-2023-Europa-League-Stats',
+        'CopaAmerica2024' : 'https://fbref.com/en/comps/685/keepers/Copa-America-Stats',
+        'Euro2024':'https://fbref.com/en/comps/676/keepers/UEFA-Euro-Stats',
+        'WorldCup2022':'https://fbref.com/en/comps/1/keepers/World-Cup-Stats'
     }
 
     columns = [
