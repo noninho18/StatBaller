@@ -1,0 +1,20 @@
+Player,Pos,Squad,Age,Born,MatchesPlayed,Starts,Min,90s,GoalsConceded,GoalsConceded90,SoTAgainst,Saves,Saves%,W,D,L,CleanSheet,CleanSheet%,PKatt,PKConcede,PKSaved,PKMissed,PKSaved%
+Alisson,GK,Brazil,31,1992,4,4,360,4.0,2,0.50,13,11,84.6,1,3,0,2,50.0,0,0,0,0,
+Gabriel Arias,GK,Chile,36,1987,1,1,90,1.0,0,0.00,3,3,100.0,0,1,0,1,100.0,0,0,0,0,
+Claudio Bravo,GK,Chile,40,1983,2,2,180,2.0,1,0.50,13,12,92.3,0,1,1,1,50.0,0,0,0,0,
+Maxime Crépeau,GK,Canada,29,1994,5,5,450,5.0,5,1.00,22,17,77.3,1,2,2,2,40.0,0,0,0,0,
+Alexander Domínguez,GK,Ecuador,36,1987,4,4,360,4.0,4,1.00,14,10,71.4,1,2,1,1,25.0,0,0,0,0,
+Pedro Gallese,GK,Peru,33,1990,3,3,270,3.0,3,1.00,9,6,66.7,0,1,2,1,33.3,1,0,0,1,
+Ethan Horvath,GK,United States,28,1995,1,0,45,0.5,1,2.00,3,2,66.7,0,0,0,0,,0,0,0,0,
+Julio José González,GK,Mexico,32,1991,3,3,270,3.0,1,0.33,9,8,100.0,1,1,1,2,66.7,1,1,0,0,0.0
+Emiliano Martínez,GK,Argentina,31,1992,6,6,570,6.3,1,0.16,14,13,92.9,5,1,0,5,83.3,1,0,0,1,
+Rodrigo Morínigo,GK,Paraguay,25,1998,3,3,270,3.0,8,2.67,11,3,36.4,0,0,3,0,0.0,2,1,0,1,0.0
+Orlando Mosquera,GK,Panama,29,1994,4,4,360,4.0,10,2.50,18,8,55.6,2,0,2,0,0.0,2,2,0,0,0.0
+Sergio Rochet,GK,Uruguay,30,1993,6,6,540,6.0,4,0.67,18,14,77.8,3,2,1,3,50.0,0,0,0,0,
+Rafael Romo,GK,Venezuela,33,1990,4,4,360,4.0,2,0.50,15,12,86.7,3,1,0,2,50.0,1,0,1,0,100.0
+Patrick Sequeira,GK,Costa Rica,24,1999,3,3,270,3.0,4,1.33,14,10,78.6,1,1,1,1,33.3,1,1,0,0,0.0
+Dayne St. Clair,GK,Canada,26,1997,1,1,90,1.0,2,2.00,5,3,60.0,0,1,0,0,0.0,0,0,0,0,
+Matt Turner,GK,United States,29,1994,3,3,225,2.5,2,0.80,9,7,77.8,1,0,2,1,33.3,0,0,0,0,
+Camilo Vargas,GK,Colombia,34,1989,6,6,570,6.3,3,0.47,17,14,82.4,4,1,1,3,50.0,0,0,0,0,
+Guillermo Vizcarra,GK,Bolivia,30,1993,3,3,270,3.0,10,3.33,23,13,56.5,0,0,3,0,0.0,0,0,0,0,
+Jahmali Waite,GK,Jamaica,25,1998,3,3,270,3.0,7,2.33,16,9,62.5,0,0,3,0,0.0,1,1,0,0,0.0

@@ -36,7 +36,7 @@ def scrape_commented_data(url,columns):
     soup = BeautifulSoup(response.text, 'html.parser')
 
     comments = soup.find_all(string=lambda text: isinstance(text, Comment))
-    
+
     table_html = None
     for comment in comments:
         if 'table' in comment:
