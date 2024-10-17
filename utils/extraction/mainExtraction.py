@@ -31,9 +31,12 @@ def data_to_csv(leagues, columns, filename):
             if 'CopaAmerica' in league_name or 'Euro2024' in league_name or 'WorldCup' in league_name:
                 if 'Nation' in columns:
                     columns.remove('Nation')
-                if 'WorldCup' in league_name and "GK_Advanced" not in filename:
+                if 'WorldCup' in league_name and ("Basic" in filename or "GK" in filename):
                     columns = columns[:5] + ['Club'] + columns[5:]
-            data = scrape_commented_data(url, columns)
+            if 'Belgian_Pro_League' in league_name or 'Brasil' in league_name or 'Primeira_Liga' in league_name :
+                data = scrape_commented_data(url, columns, True)
+            else:
+                data = scrape_commented_data(url, columns)
         else: 
             data = scrape_data(url, columns)
         if league_name[-1] in '13':
@@ -45,32 +48,35 @@ def data_to_csv(leagues, columns, filename):
         time.sleep(20)
 
 def merge_data(leagues, columns, filename):
-
     combine_csv(league_data, filename+'_stats.csv', folder)
+
+def get_urls(url_code):
+    return {
+        'Top_5_Leagues' : f'https://fbref.com/en/comps/Big5/{url_code}/players/Big-5-European-Leagues-Stats',
+        # 'Top_5_Leagues1' :f'https://fbref.com/en/comps/Big5/2023-2024/{url_code}/players/2023-2024-Big-5-European-Leagues-Stats',
+        # 'Top_5_Leagues3' :f'https://fbref.com/en/comps/Big5/2022-2023/{url_code}/players/2022-2023-Big-5-European-Leagues-Stats',
+        'Primeira_Liga':f'https://fbref.com/en/comps/32/{url_code}/Primeira-Liga-Stats',
+        # 'Primeira_Liga1': f'https://fbref.com/en/comps/32/2023-2024/{url_code}/2023-2024-Primeira-Liga-Stats',
+        # 'Brasil2024SerieA':f'https://fbref.com/en/comps/24/{url_code}/Serie-A-Stats',
+        # 'Brasil2023SerieA':f'https://fbref.com/en/comps/24/2023/{url_code}/2023-Serie-A-Stats',
+        'Belgian_Pro_League':f'https://fbref.com/en/comps/37/{url_code}/Belgian-Pro-League-Stats',
+        # 'Belgian_Pro_League1':f'https://fbref.com/en/comps/37/2023-2024/{url_code}/2023-2024-Belgian-Pro-League-Stats',
+        'Champions_League' : f'https://fbref.com/en/comps/8/{url_code}/Champions-League-Stats',
+        # 'Champions_League1': f'https://fbref.com/en/comps/8/2023-2024/{url_code}/2023-2024-Champions-League-Stats',
+        # 'Champions_League3':f'https://fbref.com/en/comps/8/2022-2023/{url_code}/2022-2023-Champions-League-Stats',
+        'Europa_League' : f'https://fbref.com/en/comps/19/{url_code}/Europa-League-Stats'
+        # 'Europa_League1' :f'https://fbref.com/en/comps/19/2023-2024/{url_code}/2023-2024-Europa-League-Stats',
+        # 'Europa_League3' :f'https://fbref.com/en/comps/19/2022-2023/{url_code}/2022-2023-Europa-League-Stats',
+        # 'CopaAmerica2024' : f'https://fbref.com/en/comps/685/{url_code}/Copa-America-Stats',
+        # 'Euro2024':f'https://fbref.com/en/comps/676/{url_code}/UEFA-Euro-Stats',
+        # 'WorldCup2022':f'https://fbref.com/en/comps/1/{url_code}/World-Cup-Stats'
+    }
+
 
 def basic_stats_scrape():
 
-    leagues = {
-        'Top_5_Leagues' : 'https://fbref.com/en/comps/Big5/stats/players/Big-5-European-Leagues-Stats',
-        # 'Top_5_Leagues1' :'https://fbref.com/en/comps/Big5/2023-2024/stats/players/2023-2024-Big-5-European-Leagues-Stats',
-        # 'Top_5_Leagues3' :'https://fbref.com/en/comps/Big5/2022-2023/stats/players/2022-2023-Big-5-European-Leagues-Stats',
-        'Primeira_Liga':'https://fbref.com/en/comps/32/stats/Primeira-Liga-Stats',
-        # 'Primeira_Liga1': 'https://fbref.com/en/comps/32/2023-2024/stats/2023-2024-Primeira-Liga-Stats',
-        # 'Brasil2024SerieA':'https://fbref.com/en/comps/24/stats/Serie-A-Stats',
-        # 'Brasil2023SerieA':'https://fbref.com/en/comps/24/2023/stats/2023-Serie-A-Stats',
-        'Belgian_Pro_League':'https://fbref.com/en/comps/37/stats/Belgian-Pro-League-Stats',
-        # 'Belgian_Pro_League1':'https://fbref.com/en/comps/37/2023-2024/stats/2023-2024-Belgian-Pro-League-Stats',
-        'Champions_League' : 'https://fbref.com/en/comps/8/stats/Champions-League-Stats',
-        # 'Champions_League1': 'https://fbref.com/en/comps/8/2023-2024/stats/2023-2024-Champions-League-Stats',
-        # 'Champions_League3':'https://fbref.com/en/comps/8/2022-2023/stats/2022-2023-Champions-League-Stats',
-        'Europa_League' : 'https://fbref.com/en/comps/19/stats/Europa-League-Stats'
-        # 'Europa_League1' :'https://fbref.com/en/comps/19/2023-2024/stats/2023-2024-Europa-League-Stats',
-        # 'Europa_League3' :'https://fbref.com/en/comps/19/2022-2023/stats/2022-2023-Europa-League-Stats',
-        # 'CopaAmerica2024' : 'https://fbref.com/en/comps/685/stats/Copa-America-Stats',
-        # 'Euro2024':'https://fbref.com/en/comps/676/stats/UEFA-Euro-Stats',
-        # 'WorldCup2022':'https://fbref.com/en/comps/1/stats/World-Cup-Stats'
-    }
-    
+    leagues = get_urls("stats")
+
     columns = [
         'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', 'MatchesPlayed', 'Starts', 
         'Min', '90s', 'Goals', 'Assists', 'G+A', 'G-PK', 'PK', 'PKattempted', 'CardY', 'CardR', 
@@ -83,26 +89,7 @@ def basic_stats_scrape():
 
 def GK_stats_scrape():
 
-    leagues = {
-        'Top_5_Leagues' : 'https://fbref.com/en/comps/Big5/keepers/players/Big-5-European-Leagues-Stats',
-        # 'Top_5_Leagues1' :'https://fbref.com/en/comps/Big5/2023-2024/keepers/players/2023-2024-Big-5-European-Leagues-Stats',
-        # 'Top_5_Leagues3' :'https://fbref.com/en/comps/Big5/2022-2023/keepers/players/2022-2023-Big-5-European-Leagues-Stats',
-        'Primeira_Liga':'https://fbref.com/en/comps/32/keepers/Primeira-Liga-Stats',
-        # 'Primeira_Liga1': 'https://fbref.com/en/comps/32/2023-2024/keepers/2023-2024-Primeira-Liga-Stats',
-        # 'Brasil2024SerieA':'https://fbref.com/en/comps/24/keepers/Serie-A-Stats',
-        # 'Brasil2023SerieA':'https://fbref.com/en/comps/24/2023/keepers/2023-Serie-A-Stats',
-        'Belgian_Pro_League':'https://fbref.com/en/comps/37/keepers/Belgian-Pro-League-Stats',
-        # 'Belgian_Pro_League1':'https://fbref.com/en/comps/37/2023-2024/keepers/2023-2024-Belgian-Pro-League-Stats',
-        'Champions_League' : 'https://fbref.com/en/comps/8/keepers/Champions-League-Stats',
-        # 'Champions_League1': 'https://fbref.com/en/comps/8/2023-2024/keepers/2023-2024-Champions-League-Stats',
-        # 'Champions_League3':'https://fbref.com/en/comps/8/2022-2023/keepers/2022-2023-Champions-League-Stats',
-        'Europa_League' : 'https://fbref.com/en/comps/19/keepers/Europa-League-Stats'
-        # 'Europa_League1' :'https://fbref.com/en/comps/19/2023-2024/keepers/2023-2024-Europa-League-Stats',
-        # 'Europa_League3' :'https://fbref.com/en/comps/19/2022-2023/keepers/2022-2023-Europa-League-Stats',
-        # 'CopaAmerica2024' : 'https://fbref.com/en/comps/685/keepers/Copa-America-Stats',
-        # 'Euro2024':'https://fbref.com/en/comps/676/keepers/UEFA-Euro-Stats',
-        # 'WorldCup2022':'https://fbref.com/en/comps/1/keepers/World-Cup-Stats'
-    }
+    leagues = get_urls("keepers")
 
     columns = [
         'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', 'MatchesPlayed', 'Starts', 
@@ -114,26 +101,7 @@ def GK_stats_scrape():
 
 def GK_adv_stats_scrape():
 
-    leagues = {
-        'Top_5_Leagues' : 'https://fbref.com/en/comps/Big5/keepersadv/players/Big-5-European-Leagues-Stats',
-        # 'Top_5_Leagues1' :'https://fbref.com/en/comps/Big5/2023-2024/keepersadv/players/2023-2024-Big-5-European-Leagues-Stats',
-        # 'Top_5_Leagues3' :'https://fbref.com/en/comps/Big5/2022-2023/keepersadv/players/2022-2023-Big-5-European-Leagues-Stats',
-        'Primeira_Liga':'https://fbref.com/en/comps/32/keepersadv/Primeira-Liga-Stats',
-        # 'Primeira_Liga1': 'https://fbref.com/en/comps/32/2023-2024/keepersadv/2023-2024-Primeira-Liga-Stats',
-        # 'Brasil2024SerieA':'https://fbref.com/en/comps/24/keepersadv/Serie-A-Stats',
-        # 'Brasil2023SerieA':'https://fbref.com/en/comps/24/2023/keepersadv/2023-Serie-A-Stats',
-        'Belgian_Pro_League':'https://fbref.com/en/comps/37/keepersadv/Belgian-Pro-League-Stats',
-        # 'Belgian_Pro_League1':'https://fbref.com/en/comps/37/2023-2024/keepersadv/2023-2024-Belgian-Pro-League-Stats',
-        'Champions_League' : 'https://fbref.com/en/comps/8/keepersadv/Champions-League-Stats',
-        # 'Champions_League1': 'https://fbref.com/en/comps/8/2023-2024/keepersadv/2023-2024-Champions-League-Stats',
-        # 'Champions_League3':'https://fbref.com/en/comps/8/2022-2023/keepersadv/2022-2023-Champions-League-Stats',
-        'Europa_League' : 'https://fbref.com/en/comps/19/keepersadv/Europa-League-Stats'
-        # 'Europa_League1' :'https://fbref.com/en/comps/19/2023-2024/keepersadv/2023-2024-Europa-League-Stats',
-        # 'Europa_League3' :'https://fbref.com/en/comps/19/2022-2023/keepersadv/2022-2023-Europa-League-Stats',
-        # 'CopaAmerica2024' : 'https://fbref.com/en/comps/685/keepersadv/Copa-America-Stats',
-        # 'Euro2024':'https://fbref.com/en/comps/676/keepersadv/UEFA-Euro-Stats',
-        # 'WorldCup2022':'https://fbref.com/en/comps/1/keepersadv/World-Cup-Stats'
-    }
+    leagues = get_urls("keepersadv")
 
     columns = [
         'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'GoalsConceded', 'PKConceded', 'GoalsFK', 'GoalsCorner', 'CSC', 'PSxG', 'PSxG/SoT', 
@@ -143,3 +111,102 @@ def GK_adv_stats_scrape():
     ]
     
     data_to_csv(leagues, columns,"GK_Advanced")
+
+def Shooting_stats_scrape():
+
+    leagues = get_urls("shooting")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'Goals', 'Shots', 'SoT', 'SoT%', 'Shots/90', 'SoT/90', 'Goals/Shots', 
+        'Goals/SoT', 'AvgDist', 'FK', 'PK', 'PKatt', 'xG', 'npxG', 'npxG/Sh', 'G-xG', 'np:G-xG', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"Shooting")
+
+def Passing_stats_scrape():
+
+    leagues = get_urls("passing")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'PassCompleted', 
+        'PassAtt', 'PassCompleted%', 'TotDist', 'PrgDist', 'ShortCmp', 'ShortAtt', 'ShortCmp%',	'MediumCmp',
+        'MediumAtt', 'MediumCmp%', 'LongCmp', 'LongAtt', 'LongCmp%', 'Ast',	'xAG', 'xA', 'A-xAG','KeyPasses',
+        'FinalThird', 'PassesPenArea',	'CrossPenArea',	'ProgPasses', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"Passing")
+
+def PassTypes_stats_scrape():
+
+    leagues = get_urls("passing_types")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'PassAtt',
+        'Live', 'Dead', 'FK', 'ThroughBalls', 'SideSwitch', 'Cross', 'Throw-Ins', 'Corners', 'InSwingCorner',
+        'OutSwingCorner', 'StraightCorner',	'PassesCmp', 'PassOffside', 'PassesBlocked', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"PassTypes")
+
+def Goal_ShotCreation_stats_scrape():
+
+    leagues = get_urls("gca")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'SCA', 'SCA/90', 
+        'SCAPassLive', 'SCAPassDead', 'SCATakeOns', 'SCAShots', 'SCAFoulsDrawn', 'SCADefAction',
+        'GCA', 'GCA/90', 'GCAPassLive', 'GCAPassDead','GCATakeOns','GCAShots', 'GCAFoulsDrawn', 'GCADefAction', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"Goal_ShotCreation")
+
+def DefActions_stats_scrape():
+
+    leagues = get_urls("defense")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'Tackles',	
+        'TacklesWon', 'TacklesDef3rd', 'TacklesMid3rd', 'TacklesAtt3rd', 'DribTkl', 'DribTklAtt', 'DribTkl%', 'ChallengesLost',
+        'Blocks', 'ShotsBlocked', 'PassesBlocked', 'Int', 'Tkl+Int', 'Clr', 'ErrorsLeadingToShot', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"DefActions")
+
+def Possession_stats_scrape():
+
+    leagues = get_urls("possession")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'Touches',	
+        'TouchesDefPen', 'TouchesDef3rd', 'TouchesMid3rd','TouchesAtt3rd', 'TouchesAttPen', 'LiveTouches',
+        'TakeOnsAtt', 'TakeOnsSucc', 'TakeOnsSucc%', 'TakeOnsTkld', 'TakeOnsTkld%',	'Carries',	'CarryTotDist',
+        'CarryPrgDist', 'PrgCarries', 'CarriesFinal3rd', 'CarriesPenArea', 'Miscontrols', 'Dispossessed','PassesReceived',	
+        'PrgPassesReceived', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"Possession")
+
+def PlayingTime_stats_scrape():
+
+    leagues = get_urls("playingtime")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', 'MP',	
+        'Min', 'Min/MP', 'Min%', '90s', 'Starts','Min/Start', 'MatchesCompleted', 'Subs', 'Min/Sub', 'unusedSub',
+        'PointsPerMatch', 'onGoalScored', 'onGoalAgainst', '+/-', '+/-/90', 'On-Off', 'onPitchxG', 'onPitchxGA', 'xG+/-',
+        'xG+/-/90',	'xGOn-Off', 'Matches'
+    ]
+    
+    data_to_csv(leagues, columns,"PlayingTime")
+
+def Misc_stats_scrape():
+
+    leagues = get_urls("misc")
+
+    columns = [
+        'Rk', 'Player', 'Nation', 'Pos', 'Squad', 'Comp', 'Age', 'Born', '90s', 'CrdY', 'CrdR', '2CrdY',
+        'Fouls', 'FoulsDrawn', 'Offsides', 'Crosses', 'Interceptions', 'TklWon', 'PKwon', 'PKconceded', 'OG',
+        'Recoveries', 'AerialDuelsWon', 'AerialDuelsLost', 'AerialDuelsWon%', 'Matches'
+    ]
+
+    data_to_csv(leagues, columns,"Misc")

@@ -1,0 +1,920 @@
+Player,Nation,Pos,Squad,Age,Born,90s,Tackles,TacklesWon,TacklesDef3rd,TacklesMid3rd,TacklesAtt3rd,DribTkl,DribTklAtt,DribTkl%,ChallengesLost,Blocks,ShotsBlocked,PassesBlocked,Int,Tkl+Int,Clr,ErrorsLeadingToShot
+Patrick van Aanholt,NED,DF,PSV Eindhoven,31,1990,1.5,1,1,1,0,0,1,3,33.3,2,2,0,2,2,3,4,0
+Myenty Abena,SUR,DF,Ferencváros,27,1994,2.0,5,2,3,1,1,3,5,60.0,2,4,3,1,1,6,5,0
+Matthis Abline,FRA,FW,Rennes,19,2003,1.6,1,1,0,1,0,0,1,0.0,1,2,0,2,1,2,2,0
+Abner,BRA,DF,Betis,22,2000,1.3,1,1,1,0,0,1,4,25.0,3,5,1,4,0,1,6,0
+Pape Abou Cissé,SEN,DF,Olympiacos,26,1995,3.3,7,5,7,0,0,5,7,71.4,2,3,2,1,4,11,15,1
+Tammy Abraham,ENG,FW,Roma,24,1997,9.6,12,6,3,5,4,3,4,75.0,1,9,1,8,0,12,4,0
+Malik Abubakari,GHA,FW,HJK,22,2000,4.9,3,0,3,0,0,2,2,100.0,0,4,0,4,2,5,4,0
+Marcos Acuña,ARG,DF,Sevilla,30,1991,7.9,24,16,9,13,2,7,17,41.2,10,11,2,9,5,29,13,0
+Junior Adamu,AUT,FW,RB Salzburg,21,2001,1.2,2,1,2,0,0,1,1,100.0,0,1,1,0,2,4,0,0
+Antonio Adán,ESP,GK,Sporting CP,35,1987,6.3,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,3,1
+Simon Adingra,CIV,"FW,DF",Union SG,20,2002,4.6,6,3,3,1,2,5,7,71.4,2,3,0,3,4,10,2,0
+Amine Adli,MAR,"FW,MF",Leverkusen,22,2000,3.1,7,1,0,5,2,3,8,37.5,5,4,0,4,2,9,2,0
+David Affengruber,AUT,DF,Sturm Graz,21,2001,5.4,8,5,7,1,0,5,10,50.0,5,6,3,3,2,10,36,0
+Ruben Aguilar,FRA,"DF,MF",Monaco,29,1993,1.4,1,1,1,0,0,1,7,14.3,6,3,1,2,1,2,0,0
+Tosin Aiyegun,BEN,FW,Zürich,24,1998,5.3,3,2,1,1,1,0,4,0.0,4,1,0,1,1,4,1,0
+Albian Ajeti,SUI,FW,Sturm Graz,25,1997,3.4,0,0,0,0,0,0,1,0.0,1,4,0,4,1,1,3,0
+Samet Akaydın,TUR,DF,Fenerbahçe,28,1994,2.0,5,3,4,1,0,4,6,66.7,2,1,0,1,3,8,11,0
+Maghnes Akliouche,FRA,"FW,MF",Monaco,20,2002,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Paul Akouokou,CIV,MF,Betis,24,1997,4.0,5,2,0,3,2,3,7,42.9,4,5,0,5,7,12,3,0
+Jordi Alba,ESP,DF,Barcelona,33,1989,0.7,1,1,0,0,1,0,0,,0,3,2,1,2,3,3,0
+Luis Alberto,ESP,MF,Lazio,29,1992,3.4,4,3,3,1,0,1,2,50.0,1,1,1,0,1,5,0,0
+Doğan Alemdar,TUR,GK,Rennes,19,2002,1.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Mohamed Ali Cho,FRA,"MF,FW",Real Sociedad,18,2004,1.3,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,1,0
+Ezgjan Alioski,MKD,DF,Fenerbahçe,30,1992,3.5,4,3,3,1,0,3,4,75.0,1,2,0,2,4,8,3,1
+Fidan Aliti,KVX,DF,Zürich,28,1993,3.5,8,6,5,3,0,2,2,100.0,0,1,0,1,1,9,8,0
+Richard Almeida,AZE,MF,Qarabağ,33,1989,3.4,3,0,1,2,0,1,5,20.0,4,3,1,2,2,5,2,0
+Marcos Alonso,ESP,DF,Barcelona,31,1990,0.8,0,0,0,0,0,0,0,,0,2,2,0,1,1,1,0
+Omri Altman,ISR,"FW,MF",AÉK Lárnaka,28,1994,4.2,4,4,3,0,1,1,6,16.7,5,2,0,2,2,6,3,1
+Edson Álvarez,MEX,MF,Ajax,24,1997,2.0,5,4,2,3,0,1,1,100.0,0,5,2,3,1,6,7,1
+Nadiem Amiri,GER,"MF,FW",Leverkusen,25,1996,3.0,6,3,2,4,0,2,4,50.0,2,1,0,1,3,9,0,0
+Isak Amundsen,NOR,DF,Bodø/Glimt,22,1999,0.4,0,0,0,0,0,0,0,,0,1,0,1,0,0,1,0
+Felipe Anderson,BRA,FW,Lazio,29,1993,4.9,9,5,3,2,4,3,6,50.0,3,2,0,2,2,11,2,0
+Joel Andersson,SWE,DF,Midtjylland,25,1996,4.2,11,4,5,4,2,7,14,50.0,7,4,1,3,3,14,6,0
+Leandro Andrade,CPV,"FW,MF",Qarabağ,22,1999,0.8,3,2,1,0,2,2,2,100.0,0,1,0,1,0,3,0,0
+Valdemar Andreasen,DEN,FW,Midtjylland,17,2005,1.3,2,1,0,1,1,1,3,33.3,2,3,0,3,1,3,1,0
+Henry Andreou,CYP,MF,AÉK Lárnaka,21,2001,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Robert Andrich,GER,MF,Leverkusen,27,1994,6.3,12,8,6,4,2,4,7,57.1,3,8,4,4,7,19,5,1
+Oleksandr Andriyevskyi,UKR,MF,Dynamo Kyiv,28,1994,1.0,1,1,0,1,0,0,2,0.0,2,0,0,0,3,4,2,0
+Thanasis Androutsos,GRE,DF,Olympiacos,25,1997,1.0,3,2,2,1,0,3,3,100.0,0,3,1,2,1,4,0,0
+Ángel,ESP,DF,AÉK Lárnaka,29,1993,4.9,5,3,2,3,0,3,12,25.0,9,7,3,4,5,10,8,0
+Karim Ansarifard,IRN,FW,AC Omonia,32,1990,2.2,1,1,0,1,0,0,1,0.0,1,1,0,1,0,1,3,0
+Marcos Antônio,BRA,MF,Lazio,22,2000,1.6,2,2,1,1,0,0,1,0.0,1,3,2,1,0,2,0,0
+Antony,BRA,FW,Manchester Utd,22,2000,7.0,10,6,5,5,0,1,8,12.5,7,8,0,8,3,13,5,0
+Dennis Appiah,FRA,"DF,FW",Nantes,30,1992,3.2,10,7,9,1,0,2,8,25.0,6,5,1,4,4,14,5,0
+Youssef El-Arabi,MAR,"FW,MF",Olympiacos,35,1987,1.8,2,2,1,0,1,1,2,50.0,1,3,0,3,0,2,0,0
+Paulus Arajuuri,FIN,DF,HJK,34,1988,0.5,1,1,1,0,0,1,1,100.0,0,2,1,1,3,4,1,0
+Aritz Arambarri,ESP,DF,Real Sociedad,24,1998,0.7,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,1,0
+Willian Arão,BRA,MF,Fenerbahçe,29,1992,3.5,7,4,1,5,1,2,4,50.0,2,2,1,1,4,11,1,0
+Ronald Araújo,URU,DF,Barcelona,23,1999,1.9,2,1,2,0,0,1,1,100.0,0,6,2,4,0,2,3,0
+Arthur,BRA,"DF,MF",Sporting CP,24,1998,2.0,3,1,2,1,0,1,4,25.0,3,2,0,2,0,3,0,0
+Emam Ashour,EGY,"FW,MF",Midtjylland,24,1998,0.8,3,3,0,2,1,2,2,100.0,0,0,0,0,0,3,0,0
+Lorenz Assignon,TOG,DF,Rennes,22,2000,3.3,6,2,2,4,0,0,3,0.0,3,4,0,4,5,11,8,0
+Iyayi Atiemwen,NGA,FW,Sheriff Tiraspol,26,1996,3.6,0,0,0,0,0,0,3,0.0,3,2,0,2,3,3,1,0
+Noah Atubolu,GER,GK,Freiburg,20,2002,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Donis Avdijaj,KVX,"MF,FW",Zürich,25,1996,0.9,1,0,1,0,0,0,2,0.0,2,2,0,2,0,1,0,0
+Irakli Azarov,GEO,DF,Red Star,20,2002,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Serdar Aziz,TUR,DF,Fenerbahçe,31,1990,5.0,10,5,4,5,1,8,9,88.9,1,4,0,4,3,13,12,0
+Sardar Azmoun,IRN,FW,Leverkusen,27,1995,3.0,6,4,3,2,1,1,4,25.0,3,4,0,4,0,6,2,0
+Oussama El Azzouzi,MAR,MF,Union SG,21,2001,1.6,4,4,1,3,0,4,6,66.7,2,6,3,3,3,7,4,0
+Ousseynou Ba,SEN,DF,Olympiacos,26,1995,2.0,0,0,0,0,0,0,0,,0,4,3,1,4,4,14,2
+Fouad Bachirou,COM,MF,AC Omonia,32,1990,1.0,1,1,0,1,0,0,1,0.0,1,1,0,1,3,4,1,0
+Loïc Bade,FRA,DF,Sevilla,22,2000,5.8,13,6,9,4,0,8,13,61.5,5,9,7,2,6,19,22,0
+Nikolai Baden Frederiksen,DEN,FW,Ferencváros,22,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Benoît Badiashile,FRA,DF,Monaco,21,2001,5.0,8,6,6,2,0,5,7,71.4,2,2,1,1,8,16,15,0
+Cédric Badolo,BFA,"MF,FW",Sheriff Tiraspol,23,1998,6.0,14,10,4,6,4,5,7,71.4,2,4,0,4,7,21,2,0
+Anastasios Bakasetas,GRE,MF,Trabzonspor,29,1993,5.1,6,5,3,2,1,2,7,28.6,5,3,0,3,2,8,4,0
+Johan Bakayoko,BEL,FW,PSV Eindhoven,19,2003,2.7,6,3,2,3,1,3,4,75.0,1,5,0,5,2,8,0,0
+Mitchel Bakker,NED,"DF,MF",Leverkusen,22,2000,5.7,5,2,3,1,1,2,8,25.0,6,13,0,13,1,6,4,0
+Alejandro Balde,ESP,DF,Barcelona,18,2003,1.3,2,0,1,1,0,2,3,66.7,1,4,0,4,1,3,0,0
+Simon Banza,COD,FW,Braga,25,1996,2.0,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,1,0
+Enis Bardhi,MKD,"MF,FW",Trabzonspor,27,1995,3.6,4,3,0,1,3,2,7,28.6,5,4,0,4,2,6,3,0
+Brandon Barker,ENG,"FW,MF",AC Omonia,25,1996,2.1,2,1,0,2,0,0,2,0.0,2,0,0,0,2,4,1,0
+Enzo Barrenechea,ARG,MF,Juventus,21,2001,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Ander Barrenetxea,ESP,MF,Real Sociedad,20,2001,0.1,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+Marc Bartra,ESP,DF,Trabzonspor,31,1991,6.0,15,9,8,6,1,7,8,87.5,1,12,7,5,8,23,22,1
+Toma Bašić,CRO,MF,Lazio,25,1996,2.2,4,4,3,1,0,0,1,0.0,1,2,0,2,1,5,1,0
+Calvin Bassey,NGA,DF,Ajax,22,1999,2.0,3,2,3,0,0,1,2,50.0,1,1,0,1,2,5,6,0
+Michy Batshuayi,BEL,FW,Fenerbahçe,28,1993,3.7,0,0,0,0,0,0,0,,0,1,0,1,0,0,4,0
+Altay Bayındır,TUR,GK,Fenerbahçe,24,1998,8.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,0
+Toral Bayramov,AZE,DF,Qarabağ,21,2001,2.6,4,1,1,3,0,2,3,66.7,1,2,0,2,2,6,3,0
+Sheraldo Becker,SUR,FW,Union Berlin,27,1995,9.5,5,2,1,2,2,1,5,20.0,4,7,1,6,2,7,0,0
+Donny van de Beek,NED,MF,Manchester Utd,25,1997,0.8,1,1,0,1,0,0,0,,0,1,0,1,0,1,0,0
+Kevin Behrens,GER,FW,Union Berlin,31,1991,3.8,2,1,0,0,2,1,6,16.7,5,3,2,1,0,2,8,0
+Felix Beijmo,SWE,DF,Malmö,24,1998,5.6,7,5,4,3,0,6,12,50.0,6,4,1,3,2,9,26,0
+Karim Bellarabi,GER,FW,Leverkusen,32,1990,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Héctor Bellerín,ESP,"DF,MF",Sporting CP,27,1995,0.9,4,1,3,0,1,4,4,100.0,0,0,0,0,2,6,0,0
+Jeanuël Belocian,FRA,DF,Rennes,17,2005,3.3,1,0,1,0,0,0,0,,0,4,4,0,1,2,6,0
+Andrea Belotti,ITA,FW,Roma,28,1993,8.6,7,5,1,2,4,2,12,16.7,10,8,1,7,4,11,3,0
+Eliesse Ben Seghir,MAR,FW,Monaco,17,2005,1.4,3,3,1,2,0,1,2,50.0,1,0,0,0,1,4,0,0
+Wissam Ben Yedder,FRA,FW,Monaco,31,1990,5.8,3,2,0,2,1,2,2,100.0,0,4,0,4,1,4,0,0
+Walter Benítez,ARG,GK,PSV Eindhoven,29,1993,7.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Patrick Berg,NOR,MF,Bodø/Glimt,24,1997,5.0,13,10,6,5,2,3,10,30.0,7,8,2,6,6,19,6,0
+Steven Berghuis,NED,"MF,FW",Ajax,30,1991,2.0,3,3,2,0,1,1,3,33.3,2,1,0,1,0,3,0,0
+Steven Bergwijn,NED,"FW,MF",Ajax,24,1997,1.7,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,1,0
+Bernardo,BRA,DF,RB Salzburg,27,1995,1.0,2,2,1,1,0,2,2,100.0,0,3,1,2,1,3,2,0
+Muhamed Bešić,BIH,MF,Ferencváros,29,1992,3.6,13,5,6,5,2,5,9,55.6,4,2,0,2,5,18,11,0
+Artem Besyedin,UKR,FW,Dynamo Kyiv,26,1996,2.8,3,2,0,1,2,1,4,25.0,3,0,0,0,0,3,1,0
+Roman Bezus,UKR,MF,AC Omonia,31,1990,2.2,3,2,1,1,1,2,6,33.3,4,3,0,3,2,5,2,0
+Pep Biel,ESP,"MF,FW",Olympiacos,25,1996,4.4,9,5,3,3,3,3,12,25.0,9,2,0,2,1,10,4,0
+Justin Bijlow,NED,GK,Feyenoord,24,1998,8.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,0
+Emmanuel van de Blaak,NED,DF,PSV Eindhoven,17,2005,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Ludovic Blas,FRA,"MF,FW",Nantes,24,1997,7.5,4,2,1,3,0,0,4,0.0,4,4,0,4,4,8,0,0
+Myron Boadu,NED,"FW,MF",Monaco,21,2001,1.3,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,0,0
+Franck Boli,CIV,FW,Ferencváros,28,1993,1.2,1,0,0,1,0,0,0,,0,0,0,0,0,1,0,0
+Valerii Bondar,UKR,DF,Shakhtar,23,1999,3.3,5,1,4,1,0,2,4,50.0,2,5,5,0,7,12,5,0
+Artem Bondarenko,UKR,MF,Shakhtar,21,2000,3.9,6,4,5,1,0,4,11,36.4,7,9,3,6,3,9,2,1
+Victor Boniface,NGA,FW,Union SG,21,2000,8.6,6,2,0,5,1,3,5,60.0,2,0,0,0,2,8,4,0
+Leonardo Bonucci,ITA,DF,Juventus,35,1987,1.5,0,0,0,0,0,0,0,,0,1,1,0,0,0,9,0
+Nikola Boranijašević,SRB,DF,Zürich,30,1992,5.6,11,9,6,3,2,9,16,56.3,7,6,3,3,7,18,14,0
+Kady Borges,BRA,"MF,FW",Qarabağ,26,1996,5.7,10,5,6,2,2,4,12,33.3,8,8,0,8,6,16,1,0
+Cristian Borja,COL,DF,Braga,29,1993,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Milan Borjan,CAN,GK,Red Star,34,1987,6.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,3,2
+Aleksandar Borković,AUT,DF,Sturm Graz,23,1999,1.1,3,3,3,0,0,3,4,75.0,1,1,1,0,2,5,2,0
+Endre Botka,HUN,DF,Ferencváros,27,1994,5.6,8,5,5,2,1,4,8,50.0,4,3,1,2,9,17,19,0
+Andreas Bouchalakis,GRE,MF,Olympiacos,29,1993,4.1,2,0,1,1,0,2,4,50.0,2,6,2,4,3,5,3,0
+Nassim Boujellab,MAR,MF,HJK,23,1999,2.7,5,0,3,2,0,3,8,37.5,5,2,1,1,0,5,2,0
+Yassine Bounou,MAR,GK,Sevilla,31,1991,6.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Benjamin Bourigeaud,FRA,"MF,FW",Rennes,28,1994,5.7,11,4,4,6,1,5,11,45.5,6,6,1,5,1,12,11,0
+Edoardo Bove,ITA,MF,Roma,20,2002,2.8,8,7,7,1,0,7,10,70.0,3,7,2,5,3,11,4,0
+Josh Bowler,ENG,FW,Olympiacos,23,1999,2.0,5,3,1,3,1,3,5,60.0,2,1,0,1,0,5,0,0
+Denys Boyko,UKR,GK,Dynamo Kyiv,34,1988,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Umut Bozok,TUR,"FW,MF",Trabzonspor,25,1996,2.6,2,1,1,1,0,2,2,100.0,0,1,0,1,0,2,0,1
+Jarrad Branthwaite,ENG,DF,PSV Eindhoven,20,2002,2.9,3,2,2,0,1,1,1,100.0,0,4,3,1,2,5,9,0
+Claudio Bravo,CHI,GK,Betis,39,1983,6.0,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+Yanick Brecher,SUI,GK,Zürich,29,1993,6.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,5,0
+Gleison Bremer,BRA,DF,Juventus,25,1997,7.1,7,6,4,3,0,5,6,83.3,1,14,7,7,7,14,38,0
+Brian Brobbey,NED,FW,Ajax,20,2002,0.8,0,0,0,0,0,0,0,,0,2,0,2,0,0,1,0
+David Browne,PNG,DF,HJK,26,1995,5.5,11,8,7,1,3,7,13,53.8,6,7,2,5,4,15,6,0
+Osman Bukari,GHA,"MF,FW",Red Star,23,1998,3.9,1,1,0,1,0,0,2,0.0,2,3,0,3,2,3,1,0
+Ezequiel Bullaude,ARG,"MF,DF",Feyenoord,21,2000,0.8,1,0,0,1,0,1,3,33.3,2,0,0,0,0,1,0,0
+Mykyta Burda,UKR,DF,Dynamo Kyiv,27,1995,1.0,2,1,1,1,0,2,3,66.7,1,1,1,0,1,3,5,0
+Christian Burgess,ENG,DF,Union SG,30,1991,9.5,8,4,5,3,0,3,9,33.3,6,13,6,7,13,21,55,0
+Heorhiy Bushchan,UKR,GK,Dynamo Kyiv,28,1994,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+Sergio Busquets,ESP,MF,Barcelona,34,1988,1.0,5,5,3,2,0,4,5,80.0,1,2,0,2,4,9,3,0
+Mohamed Buya Turay,SLE,"FW,MF",Malmö,27,1995,2.4,1,1,0,1,0,0,0,,0,1,0,1,0,1,0,0
+Vitaliy Buyalskyi,UKR,"FW,MF",Dynamo Kyiv,29,1993,5.6,8,5,1,5,2,4,5,80.0,1,1,0,1,1,9,1,0
+Uğurcan Çakır,TUR,GK,Trabzonspor,26,1996,5.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0
+Mohamed Camara,GUI,MF,Roma,25,1997,2.4,5,3,0,5,0,3,5,60.0,2,2,0,2,2,7,1,0
+Mohamed Camara,MLI,MF,Monaco,22,2000,7.2,16,8,11,3,2,9,27,33.3,18,10,0,10,6,22,0,0
+Sergio Canales,ESP,"MF,FW",Betis,31,1991,5.4,5,1,1,4,0,4,7,57.1,3,3,0,3,3,8,1,0
+Matteo Cancellieri,ITA,FW,Lazio,20,2002,2.5,10,3,2,7,1,5,7,71.4,2,3,0,3,1,11,1,0
+Nicolás Capaldo,ARG,MF,RB Salzburg,24,1997,1.9,5,3,2,3,0,4,10,40.0,6,3,0,3,2,7,1,0
+William Carvalho,POR,MF,Betis,30,1992,3.7,6,5,3,3,0,4,7,57.1,3,2,0,2,2,8,3,1
+Nicolò Casale,ITA,DF,Lazio,24,1998,1.1,0,0,0,0,0,0,0,,0,0,0,0,1,1,3,0
+Casemiro,BRA,MF,Manchester Utd,30,1992,11.0,32,14,19,12,1,13,40,32.5,27,37,11,26,17,49,22,0
+Moreto Cassamã,GNB,MF,AC Omonia,24,1998,3.7,7,3,2,5,0,3,8,37.5,5,8,3,5,5,12,3,0
+Jean-Charles Castelletto,CMR,DF,Nantes,27,1995,6.1,10,4,7,1,2,7,8,87.5,1,4,1,3,8,18,29,1
+André Castro,POR,MF,Braga,34,1988,2.9,7,4,2,4,1,2,5,40.0,3,5,2,3,3,10,6,0
+Danilo Cataldi,ITA,MF,Lazio,27,1994,4.1,3,1,0,3,0,2,3,66.7,1,6,3,3,4,7,3,0
+Joseph Ceesay,GAM,"MF,DF",Malmö,24,1998,3.1,3,2,1,1,1,1,3,33.3,2,1,0,1,3,6,6,0
+Dumitru Celeadnic,MDA,GK,Sheriff Tiraspol,30,1992,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Zeki Çelik,TUR,DF,Roma,25,1997,4.7,5,2,1,4,0,2,6,33.3,4,5,1,4,5,10,12,0
+Fabien Centonze,FRA,DF,Nantes,26,1996,2.0,8,5,6,1,1,7,9,77.8,2,1,0,1,5,13,5,0
+Matěj Chaluš,CZE,DF,Malmö,24,1998,2.0,6,3,6,0,0,2,2,100.0,0,3,1,2,2,8,9,0
+Charalampos Charalampous,CYP,MF,AC Omonia,20,2002,5.0,11,5,4,6,1,4,14,28.6,10,13,1,12,5,16,5,0
+Youssef Chermiti,POR,FW,Sporting CP,18,2004,1.5,2,2,0,1,1,1,2,50.0,1,1,0,1,1,3,2,0
+Federico Chiesa,ITA,"FW,MF",Juventus,24,1997,4.5,6,4,5,1,0,1,5,20.0,4,3,1,2,2,8,1,0
+Edward Chilufya,ZAM,FW,Midtjylland,22,1999,2.8,1,0,1,0,0,0,1,0.0,1,4,0,4,0,1,0,0
+Pedro Chirivella,ESP,MF,Nantes,25,1997,5.2,7,6,0,7,0,3,11,27.3,8,5,0,5,4,11,2,1
+Andreas Christensen,DEN,DF,Barcelona,26,1996,1.3,3,1,2,0,1,0,0,,0,3,1,2,0,3,1,0
+Gustav Christensen,DEN,FW,Midtjylland,17,2004,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Anders Christiansen,DEN,"FW,MF",Malmö,32,1990,5.0,3,0,0,3,0,3,8,37.5,5,7,0,7,5,8,0,0
+Cicinho,BUL,DF,Ludogorets,33,1988,5.0,14,7,8,3,3,5,8,62.5,3,8,4,4,15,29,8,0
+Eldar Ćivić,BIH,DF,Ferencváros,26,1996,2.2,3,2,1,1,1,1,2,50.0,1,1,1,0,5,8,5,0
+Sebastián Coates,URU,DF,Sporting CP,31,1990,5.0,9,4,7,2,0,5,7,71.4,2,3,2,1,6,15,19,0
+Marcus Coco,FRA,"DF,FW",Nantes,26,1996,1.4,3,2,1,1,1,1,1,100.0,0,1,0,1,0,3,1,0
+Francisco Conceição,POR,MF,Ajax,19,2002,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Sébastien Corchia,FRA,DF,Nantes,31,1990,4.0,6,4,3,2,1,3,9,33.3,6,5,1,4,7,13,11,0
+Kalifa Coulibaly,MLI,"FW,MF",Red Star,30,1991,0.4,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Nichita Covali,MDA,FW,Sheriff Tiraspol,19,2002,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Crespo,POR,MF,Fenerbahçe,25,1996,4.8,17,12,4,9,4,6,15,40.0,9,4,1,3,3,20,6,0
+Bryan Cristante,ITA,"MF,DF",Roma,27,1995,14.5,39,22,15,22,2,15,36,41.7,21,23,5,18,18,57,26,0
+Juan Cuadrado,COL,DF,Juventus,34,1988,6.6,14,10,9,4,1,8,11,72.7,3,3,1,2,7,21,10,0
+Elvin Cəfərquliyev,AZE,DF,Qarabağ,21,2000,3.5,4,3,2,2,0,2,5,40.0,3,1,0,1,2,6,5,0
+Johan Dahlin,SWE,GK,Malmö,35,1986,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Diogo Dalot,POR,DF,Manchester Utd,23,1999,6.9,18,8,11,7,0,10,10,100.0,0,9,2,7,9,27,5,0
+Henrik Dalsgaard,DEN,DF,Midtjylland,33,1989,6.3,10,7,7,2,1,7,10,70.0,3,6,5,1,11,21,27,0
+Danilo,BRA,DF,Juventus,31,1991,8.2,24,17,20,3,1,14,16,87.5,2,8,3,5,17,41,44,1
+Danilo,BRA,FW,Feyenoord,23,1999,6.2,3,3,3,0,0,1,3,33.3,2,2,0,2,2,5,4,0
+Amadou Dante,MLI,DF,Sturm Graz,21,2000,5.5,18,9,11,5,2,13,19,68.4,6,4,0,4,10,28,12,1
+Mattia De Sciglio,ITA,DF,Juventus,29,1992,1.6,3,2,1,1,1,2,2,100.0,0,1,0,1,1,4,4,0
+Amar Dedić,BIH,DF,RB Salzburg,19,2002,1.8,7,5,7,0,0,5,7,71.4,2,3,1,2,1,8,7,0
+Spas Delev,BUL,"FW,DF",Ludogorets,32,1989,0.6,2,2,0,2,0,2,4,50.0,2,2,0,2,0,2,0,0
+Andy Delort,ALG,FW,Nantes,30,1991,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Kerem Demirbay,GER,MF,Leverkusen,29,1993,2.9,12,5,6,5,1,4,7,57.1,3,6,0,6,4,16,2,0
+Stefano Denswil,SUR,DF,Trabzonspor,29,1993,3.8,5,2,4,1,0,4,4,100.0,0,5,4,1,3,8,13,1
+Kiril Despodov,BUL,FW,Ludogorets,25,1996,2.7,2,2,1,1,0,1,3,33.3,2,1,0,1,2,4,1,0
+Ángel Di María,ARG,FW,Juventus,34,1988,6.1,6,4,1,3,2,4,11,36.4,7,6,1,5,3,9,0,0
+Moussa Diaby,FRA,"FW,MF",Leverkusen,23,1999,6.3,0,0,0,0,0,0,6,0.0,6,5,0,5,1,1,0,0
+Samba Diallo,SEN,"MF,FW",Dynamo Kyiv,19,2003,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Krépin Diatta,SEN,"MF,FW",Monaco,23,1999,6.1,3,3,0,2,1,1,6,16.7,5,10,0,10,7,10,1,0
+Ismael Diawara,MLI,GK,Malmö,27,1994,4.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Dénes Dibusz,HUN,GK,Ferencváros,31,1990,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Javairô Dilrosun,NED,"FW,MF",Feyenoord,24,1998,5.0,3,2,2,1,0,1,4,25.0,3,2,0,2,2,5,2,1
+Ousmane Diomande,CIV,DF,Sporting CP,18,2003,3.0,8,7,8,0,0,3,7,42.9,4,2,2,0,1,9,8,1
+Edan Diop,FRA,DF,Monaco,17,2004,0.7,1,1,0,1,0,0,1,0.0,1,0,0,0,0,1,0,1
+Mouhamed Diop,SEN,"MF,FW",Sheriff Tiraspol,21,2000,5.8,5,4,1,4,0,2,4,50.0,2,2,0,2,1,6,4,0
+Axel Disasi,FRA,DF,Monaco,24,1998,8.3,5,4,2,3,0,3,6,50.0,3,8,2,6,26,31,17,0
+Mix Diskerud,USA,MF,AC Omonia,31,1990,2.7,5,1,1,4,0,2,5,40.0,3,3,2,1,2,7,5,0
+Álvaro djaló,ESP,"FW,MF",Braga,22,1999,1.5,2,1,1,0,1,1,4,25.0,3,1,0,1,0,2,1,0
+Djaniny,CPV,"FW,MF",Trabzonspor,31,1991,2.5,4,3,1,2,1,2,4,50.0,2,5,1,4,1,5,3,0
+Marko Dmitrović,SRB,GK,Sevilla,30,1992,3.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1
+Ritsu Doan,JPN,"MF,FW",Freiburg,24,1998,5.2,13,6,4,7,2,5,12,41.7,7,10,0,10,3,16,5,0
+Danilho Doekhi,NED,DF,Union Berlin,24,1998,7.9,19,15,7,12,0,8,9,88.9,1,6,1,5,13,32,24,0
+Jeremy Doku,BEL,"MF,FW",Rennes,20,2002,2.6,3,3,1,1,1,1,4,25.0,3,1,0,1,0,3,0,0
+Désiré Doué,FRA,"MF,FW",Rennes,17,2005,2.4,2,0,0,2,0,1,5,20.0,4,5,0,5,1,3,2,0
+Aleksandar Dragović,AUT,DF,Red Star,31,1991,4.7,6,3,3,3,0,2,2,100.0,0,7,6,1,9,15,15,0
+Anders Dreyer,DEN,"FW,MF",Midtjylland,24,1998,5.1,3,1,1,2,0,2,4,50.0,2,2,0,2,4,7,4,0
+Joel Drommel,NED,GK,PSV Eindhoven,25,1996,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Vladyslav Dubinchak,UKR,DF,Dynamo Kyiv,24,1998,3.4,12,11,8,3,1,7,10,70.0,3,7,1,6,6,18,15,0
+Paulo Dybala,ARG,"MF,FW",Roma,28,1993,7.4,5,2,4,0,1,3,12,25.0,9,9,2,7,3,8,3,0
+Nikolas Dyhr,DEN,DF,Midtjylland,21,2001,0.5,1,1,1,0,0,0,0,,0,3,1,2,0,1,1,0
+Blerim Džemaili,SUI,MF,Zürich,36,1986,2.9,4,2,2,1,1,2,7,28.6,5,4,0,4,2,6,0,0
+Mads Døhr Thychosen,DEN,DF,Midtjylland,25,1997,2.9,8,6,4,3,1,6,6,100.0,0,2,1,1,3,11,8,0
+Dennis Eckert,GER,FW,Union SG,25,1997,1.0,1,1,0,1,0,0,0,,0,2,0,2,0,1,2,0
+Marcus Edwards,ENG,"MF,FW",Sporting CP,23,1998,5.8,6,4,1,1,4,1,7,14.3,6,2,0,2,1,7,1,0
+Maximilian Eggestein,GER,MF,Freiburg,25,1996,4.4,5,4,2,2,1,4,8,50.0,4,3,2,1,5,10,3,0
+Anthony Elanga,SWE,FW,Manchester Utd,20,2002,1.5,3,2,0,2,1,1,3,33.3,2,2,0,2,1,4,1,0
+Mohamed Elneny,EGY,MF,Arsenal,30,1992,0.7,2,0,1,1,0,2,2,100.0,0,0,0,0,1,3,0,0
+Aritz Elustondo,ESP,DF,Real Sociedad,28,1994,5.2,9,5,7,2,0,7,10,70.0,3,5,4,1,4,13,6,1
+Breel Embolo,SUI,FW,Monaco,25,1997,3.3,4,2,0,2,2,2,4,50.0,2,2,0,2,0,4,0,0
+Emanuel Emegha,NED,FW,Sturm Graz,19,2003,2.3,1,0,0,1,0,0,0,,0,1,0,1,0,1,0,0
+Youssef En-Nesyri,MAR,FW,Sevilla,25,1997,8.0,10,3,1,6,3,2,6,33.3,4,1,0,1,0,10,8,0
+Nikos Englezou,CYP,"DF,FW",AÉK Lárnaka,29,1993,1.2,1,0,1,0,0,0,2,0.0,2,1,0,1,1,2,3,0
+Enrique,ESP,MF,Betis,18,2003,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Strahinja Eraković,SRB,DF,Red Star,21,2001,6.0,15,10,9,5,1,4,7,57.1,3,6,4,2,11,26,18,0
+Yusuf Erdoğan,TUR,DF,Trabzonspor,29,1992,0.2,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,0,0
+Evren Eren Elmalı,TUR,DF,Trabzonspor,22,2000,5.3,9,5,5,2,2,7,9,77.8,2,4,1,3,4,13,14,0
+Christian Eriksen,DEN,MF,Manchester Utd,30,1992,5.9,5,3,3,2,0,3,6,50.0,3,3,0,3,3,8,2,0
+Ricardo Esgaio,POR,"DF,MF",Sporting CP,29,1993,5.2,8,5,7,0,1,5,18,27.8,13,9,1,8,6,14,6,1
+Anderson Esiti,NGA,MF,Ferencváros,28,1994,2.8,19,10,11,8,0,6,9,66.7,3,4,1,3,1,20,5,0
+Runar Espejord,NOR,FW,Bodø/Glimt,26,1996,4.7,5,2,1,2,2,1,4,25.0,3,3,1,2,1,6,5,0
+Dario Essugo,POR,MF,Sporting CP,17,2005,0.5,2,0,1,0,1,1,1,100.0,0,1,0,1,0,2,0,1
+Evander,BRA,MF,Midtjylland,24,1998,5.7,14,8,8,4,2,9,19,47.4,10,12,1,11,5,19,4,0
+Fabiano,BRA,GK,AC Omonia,34,1988,2.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Fabiano,BRA,DF,Braga,22,2000,4.4,7,6,4,3,0,4,6,66.7,2,7,2,5,3,10,4,0
+Fábio,BRA,DF,Nantes,32,1990,1.0,3,1,3,0,0,2,3,66.7,1,2,1,1,3,6,5,0
+Nicolò Fagioli,ITA,MF,Juventus,21,2001,4.0,8,7,4,1,3,3,11,27.3,8,6,1,5,3,11,1,0
+Imad Faraj,MAR,"FW,MF",AÉK Lárnaka,23,1999,3.9,4,2,2,0,2,3,4,75.0,1,1,0,1,0,4,2,0
+Abdul Fatawu Issahaku,GHA,MF,Sporting CP,18,2004,0.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Ansu Fati,ESP,FW,Barcelona,19,2002,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Giacomo Faticanti,ITA,MF,Roma,18,2004,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Nabil Fekir,FRA,MF,Betis,29,1993,1.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Luiz Felipe,ITA,DF,Betis,25,1997,4.3,3,2,1,2,0,2,4,50.0,2,14,6,8,9,12,23,0
+Bruno Fernandes,POR,"MF,FW",Manchester Utd,27,1994,9.6,15,8,7,6,2,7,28,25.0,21,15,0,15,7,22,13,0
+Mateus Fernandes,POR,MF,Sporting CP,18,2004,0.4,1,1,0,0,1,1,2,50.0,1,0,0,0,0,1,0,0
+Carlos Fernández,ESP,"FW,MF",Real Sociedad,26,1996,1.8,3,3,0,2,1,1,2,50.0,1,2,0,2,0,3,0,0
+Fernando,BRA,FW,RB Salzburg,23,1999,0.7,3,1,0,2,1,0,3,0.0,3,2,0,2,0,3,0,0
+Fernando,BRA,"MF,DF",Sevilla,35,1987,9.5,14,8,9,5,0,10,27,37.0,17,17,4,13,14,28,26,0
+Mark Flekken,NED,GK,Freiburg,29,1993,7.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,0
+Youssouf Fofana,FRA,MF,Monaco,23,1999,7.9,18,13,7,10,1,6,18,33.3,12,8,3,5,7,25,4,0
+Timothy Fosu-Mensah,NED,MF,Leverkusen,24,1998,0.1,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Lassina Franck Traoré,BFA,FW,Shakhtar,21,2001,3.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,2,0
+Guillaume François,BEL,DF,Union SG,32,1990,0.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Fred,BRA,MF,Manchester Utd,29,1993,5.9,22,7,9,7,6,8,23,34.8,15,12,1,11,6,28,4,1
+Jeremie Frimpong,NED,"DF,MF",Leverkusen,21,2000,7.8,11,9,2,8,1,6,16,37.5,10,6,1,5,2,13,13,0
+Mohammed Fuseini,GHA,FW,Sturm Graz,20,2002,0.6,1,0,0,0,1,0,1,0.0,1,0,0,0,0,1,0,0
+Cody Gakpo,NED,FW,PSV Eindhoven,23,1999,4.1,4,2,2,1,1,3,7,42.9,4,1,0,1,3,7,1,0
+Romain Gall,USA,DF,Malmö,27,1995,1.0,1,0,1,0,0,1,2,50.0,1,0,0,0,2,3,3,0
+Ignatius Ganago,CMR,"FW,MF",Nantes,23,1999,3.1,2,2,0,1,1,2,4,50.0,2,0,0,0,0,2,1,0
+Gara Garayev,AZE,MF,Qarabağ,29,1992,4.4,12,7,5,5,2,7,14,50.0,7,2,0,2,4,16,2,0
+Alejandro Garnacho,ARG,FW,Manchester Utd,18,2004,2.4,2,2,2,0,0,1,3,33.3,2,3,0,3,3,5,2,0
+Stefan Gartenmann,DEN,DF,Midtjylland,25,1997,3.0,4,1,4,0,0,4,5,80.0,1,3,3,0,5,9,18,0
+Federico Gatti,ITA,DF,Juventus,24,1998,3.9,6,3,4,2,0,4,4,100.0,0,7,4,3,2,8,24,0
+Gavi,ESP,"FW,MF",Barcelona,17,2004,1.0,4,4,0,2,2,2,5,40.0,3,4,0,4,1,5,1,0
+Jusuf Gazibegović,BIH,DF,Sturm Graz,22,2000,4.9,9,7,5,3,1,4,7,57.1,3,10,2,8,7,16,2,0
+Jean-Philippe Gbamin,CIV,MF,Trabzonspor,26,1995,2.6,3,3,2,1,0,2,3,66.7,1,3,0,3,1,4,6,0
+David de Gea,ESP,GK,Manchester Utd,31,1990,12.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,7,2
+Lutsharel Geertruida,NED,"DF,MF",Feyenoord,22,2000,8.3,13,9,9,4,0,7,10,70.0,3,4,3,1,7,20,9,0
+Anwar El Ghazi,NED,FW,PSV Eindhoven,27,1995,2.2,2,0,1,1,0,2,3,66.7,1,3,0,3,1,3,3,0
+Niko Gießelmann,GER,DF,Union Berlin,30,1991,1.6,3,2,2,1,0,2,3,66.7,1,1,0,1,2,5,2,0
+Armin Gigovic,BIH,MF,Midtjylland,20,2002,2.0,8,3,4,3,1,5,8,62.5,3,1,0,1,2,10,2,0
+Bryan Gil,ESP,"FW,MF",Sevilla,21,2001,4.8,8,4,2,4,2,2,8,25.0,6,3,0,3,5,13,2,0
+Mario Gila,ESP,DF,Lazio,21,2000,4.7,8,3,8,0,0,6,9,66.7,3,7,3,4,2,10,12,1
+Santiago Giménez,MEX,FW,Feyenoord,21,2001,4.8,4,2,0,1,3,3,5,60.0,2,4,1,3,1,5,5,0
+Matthias Ginter,GER,DF,Freiburg,28,1994,7.2,12,9,8,3,1,9,12,75.0,3,5,3,2,13,25,20,0
+Andrei Girotto,BRA,DF,Nantes,30,1992,6.0,14,8,9,5,0,8,15,53.3,7,9,6,3,10,24,31,0
+Eugeniu Gliga,MDA,FW,Sheriff Tiraspol,21,2001,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Oscar Gloukh,ISR,MF,RB Salzburg,18,2004,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Marko Gobeljić,SRB,DF,Red Star,29,1992,3.0,3,1,0,2,1,0,1,0.0,1,1,1,0,4,7,9,0
+Amer Gojak,BIH,"MF,FW",Ferencváros,25,1997,3.0,3,0,0,2,1,1,2,50.0,1,4,0,4,3,6,3,0
+Aleksandr Golovin,RUS,"MF,FW",Monaco,26,1996,6.7,13,5,6,3,4,5,14,35.7,9,11,0,11,10,23,1,0
+Rodrigo Gomes,POR,MF,Braga,19,2003,2.1,0,0,0,0,0,0,0,,0,2,0,2,2,2,3,0
+Maxi Gómez,URU,FW,Trabzonspor,25,1996,1.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Papu Gómez,ARG,"MF,FW",Sevilla,34,1988,0.4,3,1,0,3,0,1,1,100.0,0,1,0,1,0,3,1,0
+Victor Gomez,ESP,DF,Braga,22,2000,1.5,7,5,3,2,2,5,5,100.0,0,1,0,1,0,7,1,0
+Claude Gonçalves,POR,MF,Ludogorets,28,1994,0.1,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+Pedro Gonçalves,POR,MF,Sporting CP,24,1998,6.0,12,10,6,6,0,4,20,20.0,16,2,1,1,3,15,1,0
+Édgar González,ESP,DF,Betis,25,1997,4.0,11,6,7,4,0,8,12,66.7,4,4,3,1,3,14,15,0
+Mikel González,ESP,"MF,DF",AÉK Lárnaka,36,1985,0.2,0,0,0,0,0,0,0,,0,3,1,2,1,1,1,0
+Urko González,ESP,MF,Real Sociedad,21,2001,0.3,3,1,2,1,0,1,1,100.0,0,0,0,0,0,3,0,0
+Jean Gorby,FRA,MF,Braga,20,2002,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Jon Gorenc Stanković,SVN,MF,Sturm Graz,26,1996,4.2,7,7,2,4,1,2,6,33.3,4,4,0,4,9,16,10,0
+Andoni Gorosabel,ESP,DF,Real Sociedad,25,1996,3.4,2,1,2,0,0,1,6,16.7,5,3,1,2,2,4,2,0
+Amine Gouiri,ALG,FW,Rennes,22,2000,5.0,5,3,3,2,0,1,1,100.0,0,4,2,2,3,8,0,0
+Lucas Gourna-Douath,FRA,MF,RB Salzburg,18,2003,2.0,5,3,3,2,0,3,3,100.0,0,3,1,2,2,7,4,0
+Michael Gregoritsch,AUT,FW,Freiburg,28,1994,3.0,4,2,0,2,2,0,4,0.0,4,3,0,3,1,5,3,0
+Vincenzo Grifo,ITA,"MF,FW",Freiburg,29,1993,5.6,7,5,1,3,3,4,8,50.0,4,3,0,3,0,7,4,0
+Lennart Grill,GER,GK,Union Berlin,23,1999,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Denny Gropper,ISR,DF,Ludogorets,23,1999,1.4,3,3,2,1,0,1,1,100.0,0,2,1,1,0,3,1,0
+Albert Grønbaek,DEN,"MF,FW",Bodø/Glimt,21,2001,4.2,5,4,3,2,0,1,4,25.0,3,4,0,4,7,12,2,0
+Andrés Guardado,MEX,MF,Betis,35,1986,3.6,13,10,5,8,0,8,12,66.7,4,3,0,3,7,20,1,0
+Nemanja Gudelj,SRB,"DF,MF",Sevilla,30,1991,8.7,23,16,14,8,1,12,17,70.6,5,9,7,2,8,31,31,0
+Renan Guedes,BRA,DF,Sheriff Tiraspol,24,1998,2.1,12,6,9,1,2,7,10,70.0,3,0,0,0,2,14,4,0
+Adrián Guerrero,ESP,"DF,MF",Zürich,24,1998,5.4,12,9,8,3,1,8,16,50.0,8,7,3,4,2,14,9,0
+Daniel Guerrero,ESP,FW,Betis,17,2005,0.3,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Evann Guessand,CIV,"FW,MF",Nantes,21,2001,4.3,4,2,4,0,0,3,5,60.0,2,1,0,1,7,11,2,0
+Ander Guevara,ESP,MF,Real Sociedad,25,1997,4.2,6,3,4,2,0,3,5,60.0,2,4,0,4,2,8,4,0
+Manuel Gulde,GER,DF,Freiburg,31,1991,0.7,1,0,0,0,1,0,0,,0,1,1,0,2,3,0,0
+Arda Güler,TUR,MF,Fenerbahçe,17,2005,2.6,10,5,1,3,6,4,7,57.1,3,2,0,2,4,14,0,0
+Christian Günter,GER,"DF,MF",Freiburg,29,1993,7.3,17,5,9,8,0,13,20,65.0,7,8,2,6,4,21,5,0
+Luís Gustavo Ledes,POR,MF,AÉK Lárnaka,29,1992,5.0,5,2,2,2,1,1,3,33.3,2,3,0,3,9,14,5,0
+Erick Gutiérrez,MEX,MF,PSV Eindhoven,27,1995,4.2,11,3,3,8,0,2,8,25.0,6,8,3,5,5,16,4,0
+Ádám Gyurcsó,HUN,"FW,MF",AÉK Lárnaka,31,1991,3.1,1,1,0,1,0,1,1,100.0,0,1,0,1,3,4,2,0
+Janik Haberer,GER,MF,Union Berlin,28,1994,7.1,11,4,2,9,0,4,9,44.4,5,18,1,17,5,16,1,0
+Dennis Hadzikadunic,BIH,DF,Malmö,24,1998,6.0,8,5,5,3,0,5,6,83.3,1,7,5,2,6,14,40,0
+Elias Hagen,NOR,MF,Bodø/Glimt,22,2000,0.1,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,2,0
+Nikita Haikin,RUS,GK,Bodø/Glimt,27,1995,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+Aapo Halme,FIN,DF,HJK,24,1998,1.5,3,1,3,0,0,2,4,50.0,2,2,2,0,0,3,8,0
+Marek Hamšík,SVK,MF,Trabzonspor,35,1987,4.0,6,3,3,3,0,4,6,66.7,2,5,0,5,0,6,3,0
+Dávid Hancko,SVK,DF,Feyenoord,24,1997,10.3,16,7,9,5,2,10,16,62.5,6,13,8,5,12,28,43,2
+Genki Haraguchi,JPN,MF,Union Berlin,31,1991,2.4,6,3,2,1,3,1,5,20.0,4,1,0,1,3,9,0,0
+Denys Harmash,UKR,"FW,MF",Dynamo Kyiv,32,1990,3.0,6,2,2,3,1,1,5,20.0,4,6,0,6,2,8,4,0
+Quilindschy Hartman,NED,DF,Feyenoord,20,2001,5.1,11,8,5,4,2,5,7,71.4,2,8,1,7,14,25,11,0
+Dogucan Haspolat,TUR,MF,Trabzonspor,22,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Adrian Hatman,MDA,MF,Sheriff Tiraspol,19,2003,0.2,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0
+Conor Hazard,NIR,GK,HJK,24,1998,6.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Thorgan Hazard,BEL,MF,PSV Eindhoven,29,1993,0.3,1,1,1,0,0,0,2,0.0,2,2,0,2,0,1,0,0
+Frederik Hedegaard,DEN,FW,Midtjylland,19,2003,0.8,2,2,0,0,2,1,1,100.0,0,0,0,0,0,2,0,0
+Gustavo Henrique,BRA,DF,Fenerbahçe,29,1993,4.7,2,0,1,1,0,2,2,100.0,0,2,1,1,5,7,9,0
+Luiz Henrique,BRA,"FW,MF",Betis,21,2001,4.8,11,8,7,3,1,6,12,50.0,6,12,3,9,2,13,5,0
+Heron,BRA,"FW,MF",Sheriff Tiraspol,21,2000,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Përparim Hetemaj,FIN,MF,HJK,35,1986,3.1,4,2,1,3,0,3,7,42.9,4,5,2,3,2,6,5,0
+Stefan Hierländer,AUT,MF,Sturm Graz,31,1991,3.1,8,4,2,3,3,4,11,36.4,7,4,1,3,5,13,4,0
+Piero Hincapié,ECU,DF,Leverkusen,20,2002,8.2,24,16,12,10,2,7,11,63.6,4,11,4,7,15,39,20,0
+Adam Hložek,CZE,FW,Leverkusen,20,2002,4.1,1,1,0,1,0,0,0,,0,2,0,2,3,4,2,0
+Selmin Hodza,SUI,FW,Zürich,19,2003,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Ki-Jana Hoever,NED,DF,PSV Eindhoven,20,2002,1.2,4,4,3,1,0,4,6,66.7,2,0,0,0,1,5,1,0
+Nicolas Höfler,GER,MF,Freiburg,32,1990,7.0,12,11,6,4,2,5,17,29.4,12,6,4,2,13,25,8,0
+Rob Holding,ENG,DF,Arsenal,26,1995,6.8,6,4,0,6,0,3,4,75.0,1,7,4,3,6,12,20,1
+Lucas Höler,GER,FW,Freiburg,28,1994,2.6,6,3,5,1,0,2,8,25.0,6,4,0,4,1,7,3,0
+Marc Hornschuh,GER,MF,Zürich,31,1991,1.4,2,0,0,2,0,0,1,0.0,1,2,0,2,1,3,1,0
+André Horta,POR,MF,Braga,25,1996,2.8,4,2,3,1,0,2,7,28.6,5,3,0,3,5,9,4,0
+Ricardo Horta,POR,MF,Braga,27,1994,5.6,4,0,0,2,2,1,8,12.5,7,5,0,5,1,5,2,0
+Tomi Horvat,SVN,MF,Sturm Graz,23,1999,4.8,7,2,2,3,2,3,12,25.0,9,7,0,7,1,8,0,0
+Arttu Hoskonen,FIN,DF,HJK,25,1997,5.5,7,3,4,2,1,1,2,50.0,1,13,7,6,9,16,26,0
+Santeri Hostikka,FIN,"MF,FW",HJK,24,1997,4.6,3,1,2,1,0,2,10,20.0,8,6,0,6,5,8,1,0
+Lukáš Hrádecký,FIN,GK,Leverkusen,32,1989,8.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1
+Callum Hudson-Odoi,ENG,FW,Leverkusen,21,2000,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Vitor Hugo,BRA,DF,Trabzonspor,31,1991,3.2,2,2,2,0,0,0,1,0.0,1,5,3,2,4,6,10,0
+Abbas Huseynov,AZE,DF,Qarabağ,27,1995,0.1,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+Badavi Huseynov,AZE,DF,Qarabağ,31,1991,4.0,4,1,2,2,0,2,3,66.7,1,2,2,0,5,9,21,1
+Elseid Hysaj,ALB,DF,Lazio,28,1994,6.0,9,4,4,4,1,6,11,54.5,5,6,1,5,6,15,8,0
+Marius Høibråten,NOR,DF,Bodø/Glimt,27,1995,5.0,2,2,2,0,0,0,2,0.0,2,4,2,2,1,3,22,0
+Roger Ibanez,BRA,DF,Roma,23,1998,12.4,20,11,13,6,1,11,17,64.7,6,20,12,8,29,49,48,0
+Oussama Idrissi,MAR,FW,Feyenoord,26,1996,4.4,9,7,1,3,5,5,12,41.7,7,5,2,3,1,10,3,0
+Borja Iglesias,ESP,FW,Betis,29,1993,1.6,2,2,0,1,1,0,1,0.0,1,0,0,0,1,3,2,0
+Danila Ignatov,MDA,DF,Sheriff Tiraspol,21,2001,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Samuel Iling-Junior,ENG,"DF,FW",Juventus,18,2003,1.8,6,3,5,0,1,3,5,60.0,2,1,0,1,2,8,5,0
+Asier Illarramendi,ESP,MF,Real Sociedad,32,1990,2.7,4,1,1,3,0,2,3,66.7,1,6,0,6,3,7,1,0
+Ciro Immobile,ITA,FW,Lazio,32,1990,3.5,2,0,1,0,1,2,3,66.7,1,1,0,1,0,2,4,0
+Hwang In-beom,KOR,MF,Olympiacos,25,1996,1.3,5,3,3,2,0,1,3,33.3,2,2,1,1,7,12,2,0
+Gonçalo Inácio,POR,DF,Sporting CP,20,2001,5.4,9,4,6,2,1,6,15,40.0,9,4,3,1,7,16,14,0
+Hernani Infande,POR,MF,Braga,21,2001,0.4,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Jo Inge Berget,NOR,"MF,FW",Malmö,31,1990,3.1,12,7,4,5,3,6,7,85.7,1,2,1,1,2,14,1,0
+Sandro Ingolitsch,AUT,DF,Sturm Graz,25,1997,1.1,5,3,2,2,1,4,5,80.0,1,1,0,1,2,7,1,0
+Gustav Isaksen,DEN,FW,Midtjylland,21,2001,7.7,4,1,0,2,2,0,6,0.0,6,5,0,5,1,5,1,0
+Mirko Ivanić,MNE,"MF,FW",Red Star,28,1993,3.3,2,2,1,0,1,1,7,14.3,6,6,2,4,2,4,6,0
+Paul Jaeckel,GER,DF,Union Berlin,24,1998,3.0,4,3,1,2,1,3,4,75.0,1,4,0,4,4,8,4,0
+Alireza Jahanbakhsh,IRN,FW,Feyenoord,28,1993,6.8,7,7,2,2,3,4,14,28.6,10,12,1,11,5,12,5,0
+Ismail Jakobs,SEN,"FW,MF",Monaco,22,1999,1.1,0,0,0,0,0,0,2,0.0,2,2,0,2,1,1,2,0
+Marko Janković,MNE,MF,Qarabağ,27,1995,3.4,3,2,2,0,1,1,3,33.3,2,2,1,1,3,6,6,0
+Jakob Jantscher,AUT,FW,Sturm Graz,33,1989,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Oliver Jensen,DEN,"MF,FW",Midtjylland,20,2002,1.8,3,1,1,1,1,0,4,0.0,4,1,0,1,2,5,3,0
+Victor Jensen,DEN,DF,Midtjylland,18,2003,0.8,1,1,1,0,0,1,4,25.0,3,1,0,1,0,1,3,0
+Gabriel Jesus,BRA,FW,Arsenal,25,1997,2.8,5,2,1,1,3,0,4,0.0,4,3,0,3,0,5,0,0
+Joaquín,ESP,"FW,MF",Betis,41,1981,4.4,3,2,0,1,2,0,2,0.0,2,0,0,0,3,6,0,0
+Frenkie de Jong,NED,MF,Barcelona,25,1997,2.0,4,3,2,0,2,2,2,100.0,0,3,2,1,0,4,2,0
+Luuk de Jong,NED,FW,PSV Eindhoven,31,1990,2.8,3,2,0,1,2,0,2,0.0,2,3,0,3,0,3,6,0
+Joan Jordán,ESP,MF,Sevilla,28,1994,2.6,3,2,0,3,0,0,4,0.0,4,5,2,3,3,6,3,0
+Jorginho,ITA,MF,Arsenal,30,1991,1.5,4,0,1,3,0,1,6,16.7,5,0,0,0,4,8,1,0
+Willian José,BRA,FW,Betis,30,1991,5.7,2,2,0,1,1,2,3,66.7,1,0,0,0,1,3,9,0
+Juanmi,ESP,FW,Betis,29,1993,1.9,4,4,4,0,0,1,4,25.0,3,2,0,2,0,4,0,0
+Juninho,BRA,DF,Midtjylland,26,1995,2.2,3,1,2,1,0,2,3,66.7,1,2,2,0,3,6,11,0
+Mauro Júnior,BRA,"DF,FW",PSV Eindhoven,23,1999,0.6,5,3,3,2,0,2,3,66.7,1,3,1,2,0,5,3,0
+Armel Junior Zohouri,CIV,DF,Sheriff Tiraspol,21,2001,4.3,9,7,6,3,0,7,9,77.8,2,3,1,2,5,14,13,0
+Josip Juranović,CRO,DF,Union Berlin,26,1995,3.8,6,4,4,2,0,2,2,100.0,0,3,0,3,4,10,4,0
+Sory Kaba,GUI,"FW,MF",Midtjylland,27,1995,3.1,1,1,0,1,0,0,0,,0,0,0,0,1,2,1,0
+Vladyslav Kabayev,UKR,"FW,MF",Dynamo Kyiv,26,1995,4.3,6,4,3,3,0,3,7,42.9,4,6,0,6,5,11,1,0
+Abdoul Kader Bamba,FRA,FW,Nantes,28,1994,1.2,3,3,1,1,1,1,3,33.3,2,2,0,2,3,6,0,0
+Ferdi Kadioglu,TUR,DF,Fenerbahçe,22,1999,5.2,13,12,9,1,3,10,15,66.7,5,5,0,5,3,16,4,0
+İrfan Kahveci,TUR,"MF,FW",Fenerbahçe,27,1995,3.4,10,6,2,4,4,3,10,30.0,7,3,0,3,2,12,2,0
+Andronikos Kakoulli,CYP,FW,AC Omonia,21,2001,3.0,1,0,0,0,1,1,1,100.0,0,2,1,1,0,1,4,0
+Arnaud Kalimuendo,FRA,FW,Rennes,20,2002,3.8,1,1,1,0,0,0,1,0.0,1,0,0,0,1,2,3,0
+Alexios Kalogeropoulos,GRE,DF,Olympiacos,18,2004,0.7,1,0,0,1,0,1,1,100.0,0,0,0,0,2,3,3,0
+Aboubakar Kamara,MTN,FW,Olympiacos,27,1995,2.1,0,0,0,0,0,0,0,,0,2,0,2,1,1,2,0
+Lindrit Kamberi,SUI,DF,Zürich,22,1999,6.0,8,4,4,3,1,1,4,25.0,3,7,6,1,4,12,15,0
+Ismaël Kandouss,MAR,DF,Union SG,24,1997,9.2,8,1,6,2,0,4,8,50.0,4,5,2,3,16,24,20,0
+Guélor Kanga,GAB,MF,Red Star,31,1990,5.5,9,5,4,5,0,7,11,63.6,4,2,0,2,5,14,0,1
+Kings Kangwa,ZAM,"MF,FW",Red Star,23,1999,1.9,2,1,1,1,0,1,2,50.0,1,2,0,2,4,6,1,0
+Oleksandr Karavayev,UKR,"DF,FW",Dynamo Kyiv,30,1992,0.7,1,0,0,1,0,0,0,,0,0,0,0,0,1,1,0
+Jon Karrikaburu,ESP,FW,Real Sociedad,19,2002,2.0,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,0,0
+Rick Karsdorp,NED,DF,Roma,27,1995,3.1,2,2,1,0,1,1,2,50.0,1,1,0,1,1,3,0,0
+Aleksandar Katai,SRB,"MF,FW",Red Star,31,1991,4.4,5,3,3,2,0,4,8,50.0,4,5,0,5,0,5,5,0
+Nikola Katić,BIH,DF,Zürich,25,1996,3.2,4,3,2,2,0,3,6,50.0,3,6,6,0,6,10,11,1
+Moise Kean,ITA,FW,Juventus,22,2000,2.6,2,1,1,1,0,0,1,0.0,1,0,0,0,0,2,5,0
+Tomasz Kędziora,POL,DF,Dynamo Kyiv,28,1994,2.7,6,5,3,3,0,3,7,42.9,4,5,2,3,2,8,8,0
+Yannik Keitel,GER,MF,Freiburg,22,2000,3.2,10,4,5,2,3,5,6,83.3,1,3,2,1,3,13,4,0
+Kevin Kelsy,VEN,"FW,MF",Shakhtar,18,2004,0.8,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,2,0
+Franck Kessié,CIV,MF,Barcelona,25,1996,1.7,3,3,1,1,1,0,0,,0,2,0,2,0,3,0,0
+Rani Khedira,GER,MF,Union Berlin,28,1994,10.0,23,10,6,13,4,10,19,52.6,9,5,0,5,9,32,7,0
+Isaac Kiese Thelin,SWE,FW,Malmö,30,1992,4.8,2,0,0,1,1,0,0,,0,4,1,3,1,3,5,0
+Gaby Kiki,CMR,DF,Sheriff Tiraspol,27,1995,5.9,6,3,2,4,0,4,5,80.0,1,13,7,6,10,16,33,0
+Joshua King,NOR,"FW,MF",Fenerbahçe,30,1992,2.9,6,4,4,2,0,3,4,75.0,1,2,0,2,2,8,0,0
+Otar Kiteishvili,GEO,MF,Sturm Graz,26,1996,2.4,3,2,1,2,0,1,2,50.0,1,1,0,1,3,6,2,0
+Fotios Kitsos,GRE,DF,AC Omonia,19,2003,3.0,10,5,5,3,2,5,11,45.5,6,3,0,3,3,13,3,1
+Jakub Kiwior,POL,DF,Arsenal,22,2000,0.8,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Maurits Kjærgaard,DEN,MF,RB Salzburg,19,2003,0.5,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,1,0
+Davy Klaassen,NED,MF,Ajax,29,1993,0.9,1,1,0,1,0,0,1,0.0,1,1,0,1,1,2,0,0
+Robin Knoche,GER,DF,Union Berlin,30,1992,9.9,23,13,16,7,0,12,20,60.0,8,13,8,5,11,34,22,1
+Mats Knoester,NED,DF,Ferencváros,23,1998,7.0,8,4,7,1,0,3,6,50.0,3,9,6,3,11,19,25,0
+Jonas Knudsen,DEN,"DF,MF",Malmö,29,1992,0.8,1,0,0,1,0,1,1,100.0,0,1,1,0,2,3,0,0
+Philipp Köhn,SUI,GK,RB Salzburg,24,1998,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Sekou Koita,MLI,"MF,FW",RB Salzburg,22,1999,0.2,1,0,1,0,0,0,1,0.0,1,3,0,3,0,1,0,0
+Orkun Kökçü,TUR,MF,Feyenoord,21,2000,9.6,16,7,7,8,1,8,13,61.5,5,8,1,7,3,19,5,0
+Yukhym Konoplia,UKR,DF,Shakhtar,22,1999,3.3,11,4,7,2,2,9,15,60.0,6,6,1,5,3,14,6,0
+Morten Konradsen,NOR,DF,Bodø/Glimt,26,1996,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Odilon Kossounou,CIV,DF,Leverkusen,21,2001,2.1,4,3,3,1,0,2,2,100.0,0,0,0,0,3,7,7,0
+Filip Kostić,SRB,"DF,MF",Juventus,29,1992,4.5,5,4,2,1,2,2,9,22.2,7,3,0,3,2,7,10,0
+Jules Koundé,FRA,DF,Barcelona,23,1998,2.0,3,1,3,0,0,3,8,37.5,5,3,0,3,2,5,5,0
+Ioannis Kousoulos,CYP,MF,AC Omonia,26,1996,0.3,2,0,2,0,0,1,1,100.0,0,1,1,0,0,2,1,0
+Adnan Kovačević,BIH,DF,Ferencváros,28,1993,0.1,0,0,0,0,0,0,0,,0,1,1,0,0,0,0,0
+Maksym Koval,UKR,GK,Sheriff Tiraspol,29,1992,5.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,1
+Patrick Kpozo,GHA,DF,Sheriff Tiraspol,25,1997,5.1,15,9,9,4,2,8,16,50.0,8,3,2,1,11,26,10,0
+Bledian Krasniqi,SUI,"MF,FW",Zürich,21,2001,1.7,2,2,0,2,0,2,3,66.7,1,1,0,1,0,2,2,0
+Mykyta Kravchenko,UKR,FW,Dynamo Kyiv,25,1997,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Mirlind Kryeziu,KVX,DF,Zürich,25,1997,2.8,2,2,2,0,0,2,3,66.7,1,8,6,2,2,4,10,2
+Dmytro Kryskiv,UKR,MF,Shakhtar,21,2000,2.0,5,3,2,3,0,2,8,25.0,6,4,0,4,0,5,0,0
+Lukas Kübler,GER,"DF,MF",Freiburg,29,1992,4.7,8,6,3,2,3,4,11,36.4,7,2,1,1,5,13,6,1
+Takefusa Kubo,JPN,"FW,MF",Real Sociedad,21,2001,4.0,4,1,2,0,2,3,5,60.0,2,6,0,6,0,4,0,0
+Mohammed Kudus,GHA,"FW,MF",Ajax,21,2000,2.0,3,2,0,2,1,0,0,,0,1,0,1,1,4,2,0
+Marash Kumbulla,ALB,"DF,MF",Roma,22,2000,0.8,2,0,0,2,0,0,3,0.0,3,0,0,0,2,4,2,0
+Pierre Kunde,CMR,MF,Olympiacos,27,1995,4.3,10,6,4,5,1,7,16,43.8,9,6,0,6,2,12,2,0
+Owusu Kwabena,GHA,FW,Qarabağ,25,1997,5.9,3,2,0,2,1,1,1,100.0,0,2,0,2,2,5,3,0
+Moussa Kyabou,MLI,MF,Sheriff Tiraspol,24,1998,4.7,16,11,11,5,0,9,15,60.0,6,5,0,5,8,24,7,0
+Daniel Kyereh,GHA,FW,Freiburg,26,1996,2.5,4,4,0,3,1,1,2,50.0,1,2,0,2,2,6,0,0
+Christoforou Kypros,CYP,DF,AÉK Lárnaka,29,1993,2.1,0,0,0,0,0,0,2,0.0,2,1,1,0,3,3,7,0
+Alban Lafont,FRA,GK,Nantes,23,1999,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,1
+Montassir Lahtimi,MAR,FW,Trabzonspor,21,2001,0.2,1,0,0,0,1,0,0,,0,0,0,0,0,1,0,0
+Aïssa Laïdouni,TUN,MF,Ferencváros,25,1996,3.9,9,8,3,6,0,6,13,46.2,7,6,2,4,7,16,3,0
+Aïssa Laïdouni,TUN,MF,Union Berlin,25,1996,2.6,8,5,5,2,1,2,5,40.0,3,6,0,6,0,8,4,0
+Diego Lainez,MEX,"MF,FW",Braga,22,2000,1.1,2,0,0,1,1,1,3,33.3,2,5,0,5,1,3,1,0
+Érik Lamela,ARG,"FW,MF",Sevilla,30,1992,3.9,5,5,1,3,1,3,9,33.3,6,8,1,7,1,6,1,0
+Ádám Lang,HUN,DF,AC Omonia,29,1993,4.5,2,1,1,0,1,1,2,50.0,1,8,6,2,5,7,16,0
+Christoph Lang,AUT,MF,Sturm Graz,20,2002,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Loïc Lapoussin,MAD,DF,Union SG,26,1996,8.2,18,12,13,3,2,13,28,46.4,15,14,0,14,10,28,14,0
+Hugo Larsson,SWE,MF,Malmö,18,2004,4.0,4,4,0,4,0,1,2,50.0,1,5,0,5,1,5,6,1
+Manuel Lazzari,ITA,DF,Lazio,28,1993,1.5,3,3,2,1,0,3,4,75.0,1,0,0,0,1,4,2,0
+Robin Le Normand,ESP,DF,Real Sociedad,25,1996,4.0,1,1,1,0,0,0,0,,0,2,1,1,3,4,6,0
+Jan Lecjaks,CZE,DF,AC Omonia,31,1990,3.7,5,3,3,0,2,3,8,37.5,5,1,0,1,2,7,5,0
+Richy Ledezma,USA,"MF,FW",PSV Eindhoven,21,2000,1.5,3,1,2,1,0,2,3,66.7,1,2,0,2,0,3,3,0
+Diogo Leite,POR,DF,Union Berlin,23,1999,9.0,21,12,13,6,2,12,21,57.1,9,7,2,5,13,34,33,1
+Robert Lewandowski,POL,FW,Barcelona,33,1988,2.0,2,1,0,2,0,2,2,100.0,0,0,0,0,1,3,3,0
+Jamie Leweling,GER,"MF,FW",Union Berlin,21,2001,0.7,3,1,2,1,0,2,3,66.7,1,1,0,1,0,3,0,0
+Oscar Lewicki,SWE,"MF,DF",Malmö,30,1992,3.9,3,3,2,0,1,3,6,50.0,3,2,1,1,2,5,7,0
+Philipp Lienhart,AUT,DF,Freiburg,26,1996,5.6,12,9,8,4,0,10,11,90.9,1,7,6,1,5,17,14,0
+Lincoln,BRA,"MF,FW",Fenerbahçe,23,1998,5.1,5,3,1,4,0,2,2,100.0,0,5,0,5,2,7,3,0
+Victor Lindelöf,SWE,DF,Manchester Utd,28,1994,5.8,9,5,6,3,0,5,7,71.4,2,3,3,0,2,11,17,0
+Lucas Lingman,FIN,MF,HJK,24,1998,5.5,7,3,3,3,1,3,13,23.1,10,10,5,5,6,13,7,0
+Krisztián Lisztes,HUN,FW,Ferencváros,17,2005,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Ivan Ljubic,AUT,"MF,FW",Sturm Graz,26,1996,2.3,9,6,5,2,2,3,8,37.5,5,2,0,2,3,12,9,0
+Diego Llorente,ESP,DF,Roma,28,1993,1.5,1,0,1,0,0,0,1,0.0,1,2,0,2,1,2,2,0
+Manuel Locatelli,ITA,MF,Juventus,24,1998,7.1,16,10,8,8,0,7,20,35.0,13,6,2,4,11,27,17,0
+Marius Lode,NOR,DF,Bodø/Glimt,29,1993,4.7,4,3,3,1,0,1,3,33.3,2,2,1,1,9,13,4,0
+Loizos Loizou,CYP,FW,AC Omonia,19,2003,2.1,2,0,1,0,1,2,3,66.7,1,2,1,1,0,2,0,0
+Emmanuel Lomotey,GHA,DF,Malmö,24,1997,0.1,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0
+Rafael Lopes,POR,FW,AÉK Lárnaka,31,1991,2.3,1,0,0,1,0,0,2,0.0,2,2,0,2,0,1,3,0
+Marcos López,PER,DF,Feyenoord,22,1999,5.0,9,7,5,2,2,3,4,75.0,1,5,2,3,10,19,14,0
+Jonas Lössl,DEN,GK,Midtjylland,33,1989,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,1
+Jean Lucas,BRA,MF,Monaco,24,1998,0.8,4,4,1,2,1,2,4,50.0,2,2,0,2,1,5,0,0
+Lorenzo Lucca,ITA,FW,Ajax,21,2000,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Senne Lynen,BEL,MF,Union SG,23,1999,9.9,13,10,7,5,1,10,22,45.5,12,12,2,10,7,20,6,1
+Yann M'Vila,FRA,"MF,DF",Olympiacos,32,1990,3.2,4,2,1,3,0,2,6,33.3,4,7,2,5,9,13,13,0
+Koki Machida,JPN,DF,Union SG,24,1997,1.0,5,3,2,3,0,2,4,50.0,2,1,0,1,2,7,2,0
+Noni Madueke,ENG,FW,PSV Eindhoven,20,2002,1.2,1,0,1,0,0,0,0,,0,0,0,0,1,2,1,0
+Gabriel Magalhães,BRA,DF,Arsenal,24,1997,5.7,8,6,6,1,1,5,5,100.0,0,5,3,2,5,13,20,0
+Shakhruddin Magomedaliyev,AZE,GK,Qarabağ,28,1994,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1
+Harry Maguire,ENG,DF,Manchester Utd,29,1993,4.1,5,3,4,1,0,1,1,100.0,0,3,2,1,4,9,11,1
+Jon Magunacelaya,ESP,FW,Real Sociedad,22,2000,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Lovro Majer,CRO,MF,Rennes,24,1998,5.9,10,6,4,4,2,7,12,58.3,5,6,1,5,5,15,2,0
+Tyrell Malacia,NED,DF,Manchester Utd,22,1999,7.4,23,15,13,5,5,13,21,61.9,8,12,3,9,8,31,8,1
+Rafail Mamas,CYP,MF,AÉK Lárnaka,21,2001,3.5,7,4,2,4,1,1,3,33.3,2,8,1,7,2,9,2,0
+Gianluca Mancini,ITA,DF,Roma,26,1996,14.5,16,11,9,5,2,8,10,80.0,2,15,6,9,16,32,36,0
+Steve Mandanda,FRA,GK,Rennes,37,1985,6.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Balázs Manner,HUN,MF,Ferencváros,17,2005,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Kostas Manolas,GRE,DF,Olympiacos,31,1991,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,8,0
+Marcão,BRA,DF,Sevilla,26,1996,1.3,0,0,0,0,0,0,3,0.0,3,3,2,1,1,1,2,0
+Marcelo,BRA,"MF,DF",Olympiacos,34,1988,0.9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Antonio Marchesano,SUI,MF,Zürich,31,1991,2.9,6,3,2,3,1,3,8,37.5,5,4,0,4,3,9,1,0
+Pablo Marín,ESP,"MF,FW",Real Sociedad,19,2003,1.1,0,0,0,0,0,0,1,0.0,1,2,0,2,0,0,0,0
+Guillermo Maripán,CHI,DF,Monaco,28,1994,4.3,4,1,2,2,0,1,2,50.0,1,5,1,4,6,10,16,0
+Marquinhos,BRA,FW,Arsenal,19,2003,1.6,4,3,1,0,3,3,4,75.0,1,2,0,2,3,7,0,0
+Marquinhos,BRA,"FW,MF",Ferencváros,22,1999,2.5,0,0,0,0,0,0,3,0.0,3,2,0,2,1,1,0,0
+Anthony Martial,FRA,FW,Manchester Utd,26,1995,1.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Gabriel Martinelli,BRA,FW,Arsenal,21,2001,5.5,5,1,1,2,2,2,8,25.0,6,6,0,6,1,6,1,0
+Emiliano Martínez,URU,MF,Midtjylland,22,1999,5.5,21,15,6,14,1,7,14,50.0,7,13,3,10,7,28,8,0
+Lisandro Martínez,ARG,DF,Manchester Utd,24,1998,8.8,26,16,23,3,0,19,22,86.4,3,9,5,4,12,38,30,0
+Gelson Martins,POR,MF,Monaco,27,1995,0.3,1,0,1,0,0,1,2,50.0,1,1,0,1,0,1,0,0
+Adam Marušić,MNE,DF,Lazio,29,1992,3.8,6,4,6,0,0,5,5,100.0,0,1,0,1,0,6,9,0
+Giorgos Masouras,GRE,"FW,MF",Olympiacos,28,1994,2.6,5,5,4,1,0,0,5,0.0,5,3,0,3,0,5,1,0
+Eliot Matazo,BEL,MF,Monaco,20,2002,0.9,0,0,0,0,0,0,2,0.0,2,3,0,3,2,2,1,0
+Matheus,BRA,GK,Braga,30,1992,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+Nemanja Matić,SRB,MF,Roma,33,1988,12.7,30,16,12,13,5,17,31,54.8,14,20,8,12,22,52,16,0
+Chrislain Matsima,FRA,DF,Monaco,20,2002,0.8,3,2,1,2,0,2,5,40.0,3,1,0,1,2,5,3,0
+Adam Matthews,WAL,DF,AC Omonia,30,1992,3.9,5,4,5,0,0,5,6,83.3,1,2,1,1,4,9,4,0
+Mykola Matviyenko,UKR,DF,Shakhtar,26,1996,4.3,4,2,4,0,0,2,4,50.0,2,2,1,1,8,12,20,0
+Philipp Max,GER,DF,PSV Eindhoven,28,1993,4.4,7,3,3,3,1,3,10,30.0,7,2,0,2,5,12,9,0
+Charlie McNeill,ENG,DF,Manchester Utd,18,2003,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Scott McTominay,SCO,MF,Manchester Utd,25,1996,1.5,6,2,2,4,0,3,6,50.0,3,2,0,2,0,6,0,1
+Iuri Medeiros,POR,MF,Braga,28,1994,1.4,2,1,1,1,0,1,1,100.0,0,0,0,0,0,2,2,0
+Kevin Medina,COL,DF,Qarabağ,29,1993,1.7,0,0,0,0,0,0,0,,0,3,1,2,2,2,5,0
+Maksim Medvedev,AZE,DF,Qarabağ,32,1989,0.3,1,1,0,1,0,0,0,,0,2,1,1,0,1,2,0
+Birger Meling,NOR,DF,Rennes,27,1994,5.0,15,9,8,5,2,12,15,80.0,3,9,1,8,7,22,4,0
+Brais Méndez,ESP,"MF,FW",Real Sociedad,25,1997,5.9,14,6,3,9,2,9,19,47.4,10,13,0,13,9,23,3,0
+Xavier Mercier,FRA,MF,Ferencváros,33,1989,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Mikel Merino,ESP,MF,Real Sociedad,26,1996,6.0,15,8,2,9,4,6,11,54.5,5,9,5,4,12,27,4,0
+Quentin Merlin,FRA,DF,Nantes,20,2002,4.0,6,4,2,2,2,3,9,33.3,6,2,1,1,6,12,6,0
+Karol Mets,EST,DF,Zürich,29,1993,1.5,1,0,1,0,0,1,2,50.0,1,1,1,0,3,4,5,0
+Sven Michel,GER,FW,Union Berlin,32,1990,2.1,4,2,1,3,0,0,2,0.0,2,2,0,2,2,6,1,0
+Jovan Mijatović,SRB,"MF,FW",Red Star,17,2005,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Nemanja Miletić,SRB,DF,AC Omonia,31,1991,5.6,10,7,9,0,1,4,9,44.4,5,4,3,1,1,11,27,0
+Hrvoje Miličević,BIH,DF,AÉK Lárnaka,29,1993,6.0,10,6,7,3,0,6,8,75.0,2,11,5,6,15,25,34,0
+Arkadiusz Milik,POL,FW,Juventus,28,1994,1.4,2,1,1,1,0,0,2,0.0,2,0,0,0,0,2,1,0
+Sergej Milinković-Savić,SRB,MF,Lazio,27,1995,3.7,6,2,0,3,3,4,7,57.1,3,5,0,5,2,8,0,0
+Nemanja Milunović,SRB,DF,Red Star,33,1989,4.1,3,1,2,1,0,1,3,33.3,2,10,6,4,11,14,19,0
+Takumi Minamino,JPN,"FW,MF",Monaco,27,1995,1.7,2,2,1,1,0,0,3,0.0,3,5,0,5,0,2,0,0
+Rafa Mir,ESP,"MF,FW",Sevilla,25,1997,0.9,0,0,0,0,0,0,0,,0,0,0,0,2,2,0,0
+Juan Miranda,ESP,DF,Betis,22,2000,6.0,11,6,6,3,2,8,12,66.7,4,6,1,5,2,13,12,0
+Fabio Miretti,ITA,MF,Juventus,18,2003,2.2,3,2,1,2,0,1,2,50.0,1,5,0,5,2,5,4,0
+Stefan Mitrović,SRB,"FW,MF",Red Star,19,2002,3.1,0,0,0,0,0,0,0,,0,5,0,5,0,0,2,0
+Ryan Mmaee,MAR,FW,Ferencváros,24,1997,6.1,3,2,1,1,1,1,3,33.3,2,5,0,5,1,4,8,0
+Samy Mmaee,MAR,DF,Ferencváros,25,1996,6.0,11,7,9,2,0,7,7,100.0,0,7,3,4,11,22,41,1
+Brede Moe,NOR,DF,Bodø/Glimt,30,1991,1.9,2,1,2,0,0,0,1,0.0,1,4,4,0,1,3,11,0
+Mostafa Mohamed,EGY,"FW,MF",Nantes,24,1997,6.9,3,1,1,2,0,0,1,0.0,1,6,1,5,2,5,14,0
+Niklas Moisander,FIN,DF,Malmö,36,1985,1.0,1,1,1,0,0,1,2,50.0,1,3,3,0,3,4,2,0
+Florent Mollet,FRA,MF,Nantes,30,1991,1.0,0,0,0,0,0,0,0,,0,1,0,1,2,2,0,0
+Gonzalo Montiel,ARG,"DF,FW",Sevilla,25,1997,3.4,4,1,4,0,0,3,6,50.0,3,4,1,3,6,10,11,0
+Emre Mor,TUR,MF,Fenerbahçe,25,1997,1.8,7,4,0,4,3,2,6,33.3,4,3,0,3,1,8,0,0
+Álex Moreno,ESP,"DF,MF",Betis,29,1993,0.8,4,4,2,1,1,4,6,66.7,2,2,0,2,1,5,3,0
+Anthony Moris,LUX,GK,Union SG,32,1990,10.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,4,2
+Hidemasa Morita,JPN,MF,Sporting CP,27,1995,3.6,5,3,2,3,0,1,10,10.0,9,6,4,2,8,13,4,0
+Nemanja Motika,SRB,MF,Red Star,19,2003,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Samuel Moutoussamy,COD,MF,Nantes,25,1996,5.9,11,4,6,5,0,5,13,38.5,8,6,0,6,3,14,7,0
+Aihen Muñoz,ESP,DF,Real Sociedad,24,1997,1.0,5,4,2,2,1,4,4,100.0,0,1,0,1,0,5,2,0
+Murilo,POR,DF,HJK,26,1995,0.2,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+Almoatasem Al Musrati,LBY,MF,Braga,26,1996,4.6,10,5,4,4,2,4,7,57.1,3,8,3,5,14,24,3,0
+Bəhlul Mustafazadə,AZE,DF,Qarabağ,25,1997,6.0,6,3,4,2,0,2,3,66.7,1,6,5,1,9,15,31,0
+Ibrahim Mustapha,GHA,"MF,FW",Red Star,22,2000,0.8,2,1,2,0,0,0,2,0.0,2,1,1,0,1,3,1,0
+Alper Mutlu,,GK,AÉK Lárnaka,18,2003,0.5,,0,,,,,,,,,,,0,,,
+Joel Mvuka,NOR,FW,Bodø/Glimt,19,2002,3.5,3,2,2,1,0,2,6,33.3,4,2,0,2,2,5,2,0
+Phillipp Mwene,AUT,DF,PSV Eindhoven,28,1994,6.0,14,7,10,4,0,8,19,42.1,11,3,2,1,3,17,7,0
+Bohdan Mykhaylychenko,UKR,DF,Shakhtar,25,1997,3.3,9,5,6,3,0,5,11,45.5,6,3,1,2,5,14,3,0
+Ben Nabouhane,COM,"FW,MF",Red Star,33,1989,0.6,1,0,0,1,0,0,1,0.0,1,0,0,0,0,1,0,0
+Giorgos Naoum,CYP,MF,AÉK Lárnaka,21,2001,0.8,2,0,1,0,1,1,3,33.3,2,2,0,2,2,4,0,0
+Roberto Navarro,ESP,"FW,MF",Real Sociedad,20,2002,2.2,3,3,2,1,0,1,2,50.0,1,3,0,3,2,5,0,0
+Jesús Navas,ESP,DF,Sevilla,36,1985,7.7,12,9,7,3,2,9,14,64.3,5,5,2,3,3,15,10,0
+Yehor Nazaryna,UKR,MF,Shakhtar,25,1997,0.7,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+Anton Nedyalkov,BUL,DF,Ludogorets,29,1993,6.0,9,6,6,3,0,7,8,87.5,1,7,5,2,8,17,21,0
+Reiss Nelson,ENG,FW,Arsenal,22,1999,3.3,6,2,2,3,1,1,2,50.0,1,2,0,2,1,7,2,0
+Ruslan Neshcheret,UKR,GK,Dynamo Kyiv,20,2002,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Tokmac Nguen,NOR,"FW,MF",Ferencváros,28,1993,3.7,3,0,0,3,0,3,6,50.0,3,3,0,3,2,5,5,0
+Sikou Niakaté,MLI,DF,Braga,23,1999,0.8,0,0,0,0,0,0,0,,0,0,0,0,2,2,2,0
+Tanguy Nianzou,FRA,DF,Sevilla,20,2002,3.8,9,6,4,5,0,4,7,57.1,3,5,1,4,6,15,7,0
+Lasse Nielsen,DEN,DF,Malmö,34,1988,2.0,5,2,4,1,0,3,6,50.0,3,1,0,1,4,9,10,0
+Bart Nieuwkoop,NED,DF,Union SG,26,1996,8.9,24,16,13,5,6,12,24,50.0,12,16,5,11,23,47,24,0
+Veljko Nikolić,SRB,"MF,DF",Red Star,22,1999,0.6,6,3,3,2,1,0,3,0.0,3,0,0,0,1,7,0,0
+Gustaf Nilsson,SWE,"FW,DF",Union SG,25,1997,1.9,1,1,0,1,0,0,1,0.0,1,3,1,2,0,1,0,0
+Eddie Nketiah,ENG,FW,Arsenal,23,1999,5.8,1,0,0,0,1,0,2,0.0,2,6,0,6,0,1,1,0
+Nonato,BRA,MF,Ludogorets,24,1998,1.2,2,0,1,1,0,2,4,50.0,2,1,0,1,2,4,0,0
+Andreas Ntoi,GRE,DF,Olympiacos,19,2003,2.0,1,1,1,0,0,0,0,,0,2,1,1,4,5,7,0
+Alexander Nübel,GER,GK,Monaco,25,1996,8.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1
+Armando Obispo,NED,DF,PSV Eindhoven,23,1999,3.8,5,2,3,2,0,1,5,20.0,4,4,2,2,5,10,12,0
+Lucas Ocampos,ARG,"FW,MF",Sevilla,28,1994,5.7,18,8,6,8,4,11,19,57.9,8,6,0,6,3,21,2,0
+Noah Okafor,SUI,FW,RB Salzburg,22,2000,1.9,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,2,0
+Jonathan Okita,COD,"FW,MF",Zürich,26,1995,4.3,4,3,2,1,1,2,5,40.0,3,2,0,2,3,7,1,0
+Victor Olatunji,NGA,FW,AÉK Lárnaka,22,1999,3.2,0,0,0,0,0,0,2,0.0,2,3,0,3,1,1,5,0
+Paulo Oliveira,POR,DF,Braga,30,1992,5.2,2,1,2,0,0,2,5,40.0,3,6,4,2,4,6,23,1
+Cauly Oliveira Souza,BRA,MF,Ludogorets,26,1995,6.0,5,2,1,3,1,3,9,33.3,6,1,0,1,1,6,3,0
+Kristoffer Olsson,SWE,MF,Midtjylland,27,1995,6.4,17,8,8,5,4,5,11,45.5,6,7,1,6,15,32,3,0
+Martin Olsson,SWE,"MF,DF",Malmö,34,1988,3.9,4,4,3,1,0,2,5,40.0,3,0,0,0,2,6,4,0
+Anthony Olusanya,FIN,"FW,MF",HJK,21,2000,1.8,4,3,2,2,0,1,2,50.0,1,4,1,3,0,4,1,0
+Warmed Omari,COM,DF,Rennes,22,2000,2.3,0,0,0,0,0,0,1,0.0,1,1,1,0,1,1,2,0
+Abdülkadir Ömür,TUR,"FW,MF",Trabzonspor,23,1999,2.4,8,3,3,4,1,6,8,75.0,2,3,0,3,3,11,0,0
+Jayden Oosterwolde,NED,DF,Fenerbahçe,21,2001,1.0,3,2,2,0,1,1,1,100.0,0,2,0,2,0,3,0,0
+Fredrik Oppegard,NOR,DF,PSV Eindhoven,19,2002,1.0,3,3,3,0,0,3,3,100.0,0,2,0,2,1,4,3,0
+Alois Oroz,CRO,MF,Sturm Graz,21,2000,0.6,2,2,2,0,0,0,0,,0,0,0,0,1,3,1,0
+Bright Osayi-Samuel,NGA,"DF,FW",Fenerbahçe,24,1997,4.1,10,5,6,3,1,5,6,83.3,1,3,1,2,5,15,2,1
+Abou Ouattara,BFA,"FW,DF",Sheriff Tiraspol,22,1999,2.1,1,1,0,0,1,1,1,100.0,0,5,0,5,1,2,0,0
+Cheick Oumar Conde,GUI,MF,Zürich,22,2000,3.0,11,6,6,3,2,6,7,85.7,1,4,3,1,5,16,5,0
+Mikel Oyarzabal,ESP,FW,Real Sociedad,25,1997,1.1,1,0,0,0,1,0,0,,0,1,0,1,0,1,0,0
+Filip Ozobić,AZE,MF,Qarabağ,31,1991,1.8,0,0,0,0,0,0,2,0.0,2,2,0,2,1,1,0,0
+Jon Pacheco,ESP,DF,Real Sociedad,21,2001,5.0,3,2,3,0,0,2,2,100.0,0,7,2,5,6,9,13,1
+Sergio Padt,NED,GK,Ludogorets,32,1990,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Igor Paixão,BRA,"FW,MF",Feyenoord,22,2000,2.3,4,0,1,1,2,2,5,40.0,3,1,1,0,4,8,3,0
+Exequiel Palacios,ARG,MF,Leverkusen,23,1998,5.7,27,17,9,14,4,9,22,40.9,13,12,0,12,9,36,7,0
+Nicolas Pallois,FRA,DF,Nantes,34,1987,6.0,17,12,12,3,2,10,19,52.6,9,8,5,3,13,30,21,0
+Nikolas Panayiotou,CYP,"DF,MF",AC Omonia,22,2000,3.3,10,9,8,2,0,5,5,100.0,0,2,1,1,4,14,9,0
+Radovan Pankov,SRB,"DF,MF",Red Star,26,1995,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Sokratis Papastathopoulos,GRE,DF,Olympiacos,34,1988,1.0,2,1,2,0,0,1,2,50.0,1,1,0,1,3,5,8,0
+Fotios Papoulis,CYP,"MF,FW",AC Omonia,37,1985,1.8,0,0,0,0,0,0,1,0.0,1,1,0,1,0,0,2,0
+Leandro Paredes,ARG,MF,Juventus,28,1994,1.7,6,2,5,1,0,3,7,42.9,4,0,0,0,3,9,4,0
+Kaheem Parris,JAM,MF,Dynamo Kyiv,22,2000,0.2,2,1,2,0,0,1,1,100.0,0,0,0,0,1,3,0,0
+Thomas Partey,GHA,MF,Arsenal,29,1993,1.9,4,2,1,3,0,1,2,50.0,1,1,0,1,3,7,2,0
+Alexandros Paschalakis,GRE,GK,Olympiacos,33,1989,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+Lóránd Pászka,HUN,DF,Ferencváros,26,1996,2.9,3,1,3,0,0,2,4,50.0,2,4,1,3,4,7,8,0
+Patric,ESP,DF,Lazio,29,1993,2.4,1,1,1,0,0,1,2,50.0,1,2,1,1,2,3,7,1
+Rui Patrício,POR,GK,Roma,34,1988,14.7,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,1
+Paulinho,POR,FW,Sporting CP,29,1992,3.7,4,2,0,2,2,2,3,66.7,1,1,0,1,1,5,3,0
+Paulinho,BRA,DF,Midtjylland,27,1995,6.6,11,6,7,3,1,7,14,50.0,7,6,1,5,12,23,16,0
+Strahinja Pavlović,SRB,DF,RB Salzburg,21,2001,1.0,0,0,0,0,0,0,1,0.0,1,3,2,1,0,0,2,0
+Marcus Pedersen,NOR,DF,Feyenoord,22,2000,4.5,6,4,1,3,2,3,6,50.0,3,8,3,5,3,9,5,0
+Pedri,ESP,MF,Barcelona,19,2002,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Pedrinho,BRA,MF,Ludogorets,24,1998,2.1,5,2,0,4,1,3,7,42.9,4,5,2,3,5,10,3,0
+Pedro,ESP,"FW,MF",Lazio,35,1987,3.1,5,3,1,3,1,5,7,71.4,2,1,0,1,1,6,0,0
+João Pedro,ITA,FW,Fenerbahçe,30,1992,2.9,1,0,1,0,0,0,0,,0,2,0,2,1,2,0,0
+Jordan Pefok,USA,FW,Union Berlin,26,1996,4.5,2,0,0,2,0,1,1,100.0,0,4,0,4,0,2,4,0
+Lorenzo Pellegrini,ITA,MF,Roma,26,1996,12.9,21,10,6,9,6,8,21,38.1,13,6,4,2,8,29,16,0
+Amahl Pellegrino,NOR,FW,Bodø/Glimt,32,1990,3.3,3,0,1,2,0,1,2,50.0,1,1,0,1,0,3,1,0
+Facundo Pellistri,URU,FW,Manchester Utd,20,2001,1.2,2,1,1,0,1,1,2,50.0,1,1,0,1,1,3,0,0
+Matti Peltola,FIN,DF,HJK,20,2002,3.9,9,4,4,5,0,5,9,55.6,4,8,5,3,3,12,11,0
+Sergio Peña,PER,MF,Malmö,26,1995,1.9,2,0,0,2,0,1,3,33.3,2,0,0,0,3,5,2,0
+Luan Peres Petroni,BRA,DF,Fenerbahçe,28,1994,1.6,2,2,2,0,0,0,0,,0,0,0,0,5,7,3,0
+Ayoze Pérez,ESP,FW,Betis,29,1993,1.3,1,0,0,1,0,1,3,33.3,2,1,0,1,0,1,1,0
+Mattia Perin,ITA,GK,Juventus,29,1992,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Pernambuco,BRA,"FW,MF",Sheriff Tiraspol,24,1998,2.9,4,3,4,0,0,2,5,40.0,3,9,2,7,2,6,1,1
+Aleksandar Pešić,SRB,FW,Red Star,30,1992,5.1,2,1,0,1,1,1,2,50.0,1,2,0,2,0,2,3,0
+Nils Petersen,GER,FW,Freiburg,33,1988,3.9,5,2,3,0,2,3,6,50.0,3,1,0,1,3,8,9,0
+Ivan Petryak,UKR,MF,Shakhtar,28,1994,0.5,0,0,0,0,0,0,2,0.0,2,0,0,0,0,0,1,0
+Germán Pezzella,ARG,DF,Betis,31,1991,5.2,4,3,4,0,0,3,5,60.0,2,11,3,8,8,12,15,0
+Jakub Piotrowski,POL,MF,Ludogorets,24,1997,5.5,7,5,5,1,1,3,8,37.5,5,8,1,7,10,17,8,0
+Pipa,ESP,"DF,MF",Olympiacos,24,1998,3.3,1,0,1,0,0,1,4,25.0,3,3,0,3,4,5,13,0
+Kenan Pirić,BIH,GK,AÉK Lárnaka,28,1994,6.0,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,3,0
+Ihor Plastun,UKR,DF,Ludogorets,31,1990,1.0,2,1,1,1,0,1,1,100.0,0,2,2,0,0,2,6,0
+Paul Pogba,FRA,"MF,FW",Juventus,29,1993,0.5,0,0,0,0,0,0,2,0.0,2,0,0,0,2,2,0,0
+Pere Pons,ESP,MF,AÉK Lárnaka,29,1993,3.2,13,5,6,6,1,4,8,50.0,4,4,2,2,4,17,2,0
+Denys Popov,UKR,DF,Dynamo Kyiv,23,1999,2.0,4,3,2,2,0,1,2,50.0,1,5,1,4,2,6,9,2
+Alexander Prass,AUT,MF,Sturm Graz,21,2001,5.9,9,6,1,6,2,4,14,28.6,10,10,1,9,4,13,4,0
+Ivan Provedel,ITA,GK,Lazio,28,1994,6.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,2
+Paris Psaltis,CYP,DF,AC Omonia,25,1996,1.3,1,1,1,0,0,0,1,0.0,1,3,1,2,3,4,1,0
+Tymoteusz Puchacz,POL,DF,Union Berlin,23,1999,0.7,0,0,0,0,0,0,2,0.0,2,0,0,0,1,1,0,0
+Cameron Puertas,SUI,"MF,FW",Union SG,23,1998,1.4,4,3,2,2,0,1,1,100.0,0,0,0,0,5,9,4,0
+Musa Qurbanlı,AZE,"MF,FW",Qarabağ,20,2002,0.0,1,0,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+Adrien Rabiot,FRA,MF,Juventus,27,1995,8.3,15,11,10,3,2,7,20,35.0,13,14,2,12,7,22,23,0
+Uroš Račić,SRB,MF,Braga,24,1998,2.4,5,2,1,3,1,3,5,60.0,2,3,1,2,0,5,10,0
+Stjepan Radeljić,BIH,DF,Sheriff Tiraspol,24,1997,6.0,13,7,9,4,0,8,12,66.7,4,13,9,4,13,26,27,0
+Ștefan Radu,ROU,DF,Lazio,35,1986,0.7,1,0,1,0,0,0,0,,0,1,1,0,2,3,1,0
+Bojan Radulovic,SRB,"MF,FW",HJK,22,1999,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Jukka Raitala,FIN,DF,HJK,33,1988,5.0,10,6,5,3,2,6,9,66.7,3,6,5,1,9,19,12,0
+Erdal Rakip,MKD,"MF,FW",Malmö,26,1996,3.2,10,7,3,7,0,3,5,60.0,2,5,2,3,1,11,3,0
+Ivan Rakitić,CRO,MF,Sevilla,34,1988,9.6,19,9,7,9,3,9,21,42.9,12,11,4,7,5,24,6,0
+Yaroslav Rakitskiy,UKR,DF,Shakhtar,32,1989,1.0,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,5,0
+André Ramalho,BRA,DF,PSV Eindhoven,30,1992,6.5,12,7,10,2,0,9,13,69.2,4,9,9,0,6,18,29,0
+Aaron Ramsdale,ENG,GK,Arsenal,24,1998,3.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+Raphinha,BRA,FW,Barcelona,25,1996,1.7,5,4,3,1,1,3,5,60.0,2,3,0,3,2,7,0,0
+Ibrahim Rasheed,NGA,"FW,DF",Sheriff Tiraspol,23,1999,5.5,2,1,2,0,0,1,4,25.0,3,1,0,1,2,4,1,0
+Marcus Rashford,ENG,FW,Manchester Utd,24,1997,6.2,6,4,2,3,1,2,6,33.3,4,9,0,9,0,6,1,0
+Jacob Rasmussen,DEN,DF,Feyenoord,25,1997,0.4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Oleg Reabciuk,MDA,"DF,MF",Olympiacos,24,1998,4.1,13,3,8,4,1,8,11,72.7,3,2,1,1,3,16,11,0
+Damir Redzic,HUN,FW,Ferencváros,19,2003,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Matheus Reis,BRA,"DF,MF",Sporting CP,27,1995,3.3,3,2,3,0,0,3,6,50.0,3,6,0,6,2,5,5,0
+Karim Rekik,NED,DF,Sevilla,27,1994,0.3,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Álex Remiro,ESP,GK,Real Sociedad,27,1995,8.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+Devyne Rensch,NED,DF,Ajax,19,2003,1.9,4,2,4,0,0,1,2,50.0,1,1,1,0,0,4,3,0
+Panagiotis Retsos,GRE,DF,Olympiacos,23,1998,2.6,4,3,4,0,0,4,4,100.0,0,1,1,0,5,9,12,0
+Rick,BRA,FW,Ludogorets,22,1999,3.6,3,1,2,1,0,1,3,33.3,2,0,0,0,1,4,0,0
+Diego Rico,ESP,DF,Real Sociedad,29,1993,6.8,15,10,7,6,2,8,16,50.0,8,9,0,9,6,21,6,0
+Søren Rieks,DEN,"MF,DF",Malmö,35,1987,2.3,3,2,2,0,1,2,6,33.3,4,2,0,2,1,4,4,0
+Charles Rigon Matos,BRA,MF,Midtjylland,26,1996,1.0,1,0,1,0,0,0,1,0.0,1,2,2,0,2,3,2,0
+Sergi Roberto,ESP,"FW,MF",Barcelona,30,1992,1.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0
+Milan Rodić,SRB,DF,Red Star,31,1991,5.9,5,3,1,3,1,3,5,60.0,2,7,2,5,11,16,18,1
+Joe Rodon,WAL,DF,Rennes,24,1997,5.0,4,0,3,1,0,2,2,100.0,0,7,5,2,5,9,20,0
+Rodri,ESP,"FW,MF",Betis,22,2000,4.5,7,6,2,2,3,2,3,66.7,1,5,0,5,3,10,1,0
+Bruno Rodrigues,POR,DF,Braga,21,2001,1.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,3,0
+Garry Rodrigues,CPV,"FW,MF",Olympiacos,31,1990,1.5,0,0,0,0,0,0,0,,0,2,0,2,0,0,0,0
+Guido Rodríguez,ARG,MF,Betis,28,1994,3.9,22,9,10,11,1,13,19,68.4,6,5,1,4,7,29,8,1
+José Rodríguez,ESP,"MF,FW",Union SG,27,1994,1.1,1,0,0,1,0,0,0,,0,1,0,1,0,1,2,0
+Fabian Rohner,SUI,"FW,DF",Zürich,23,1998,2.9,6,2,3,3,0,1,4,25.0,3,2,0,2,1,7,3,0
+Alessio Romagnoli,ITA,DF,Lazio,27,1995,3.8,4,2,4,0,0,3,3,100.0,0,2,2,0,2,6,6,0
+Julio Romão,BRA,MF,Qarabağ,24,1998,0.9,7,7,4,2,1,4,4,100.0,0,0,0,0,1,8,2,0
+Luka Romero,ARG,FW,Lazio,17,2004,0.5,2,1,0,2,0,1,3,33.3,2,0,0,0,1,3,0,0
+Cristiano Ronaldo,POR,FW,Manchester Utd,37,1985,5.9,1,1,0,1,0,0,1,0.0,1,1,0,1,0,1,1,0
+Roberto Rosales,VEN,"DF,FW",AÉK Lárnaka,33,1988,4.5,8,5,5,2,1,4,7,57.1,3,3,1,2,5,13,13,0
+Diego Rossi,URU,"FW,MF",Fenerbahçe,24,1998,3.1,6,4,3,0,3,4,8,50.0,4,2,1,1,1,7,0,0
+Jérôme Roussillon,FRA,DF,Union Berlin,29,1993,2.8,2,2,2,0,0,1,1,100.0,0,1,0,1,2,4,0,0
+Aitor Ruibal,ESP,"DF,FW",Betis,26,1996,7.0,21,10,11,8,2,12,25,48.0,13,9,1,8,13,34,11,0
+Abel Ruiz,ESP,FW,Braga,22,2000,4.7,2,1,1,1,0,1,1,100.0,0,3,1,2,0,2,2,0
+Víctor Ruiz,ESP,DF,Betis,33,1989,2.5,1,0,1,0,0,1,1,100.0,0,3,2,1,7,8,4,0
+Gerónimo Rulli,ARG,GK,Ajax,30,1992,2.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,1
+Julian Ryerson,NOR,DF,Union Berlin,24,1997,5.1,13,7,3,9,1,5,9,55.6,4,8,0,8,2,15,8,0
+Frederik Rønnow,DEN,GK,Union Berlin,29,1992,9.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,1
+Youssouf Sabaly,SEN,DF,Betis,29,1993,2.5,6,5,5,1,0,4,4,100.0,0,3,1,2,6,12,7,0
+Marcel Sabitzer,AUT,MF,Manchester Utd,28,1994,2.1,3,2,0,2,1,0,2,0.0,2,0,0,0,0,3,5,0
+Umar Sadiq,NGA,FW,Real Sociedad,25,1997,0.5,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,1,0
+Ismael Saibari,MAR,FW,PSV Eindhoven,21,2001,2.7,5,4,1,3,1,2,10,20.0,8,4,0,4,2,7,2,0
+Bukayo Saka,ENG,FW,Arsenal,20,2001,4.5,5,3,0,1,4,3,7,42.9,4,4,1,3,2,7,1,0
+Ibrahim Salah,MAR,"FW,MF",Rennes,20,2001,0.5,0,0,0,0,0,0,0,,0,1,1,0,2,2,1,0
+William Saliba,FRA,DF,Arsenal,21,2001,3.2,3,1,3,0,0,2,5,40.0,3,0,0,0,3,6,8,0
+Mudasiru Salifu,GHA,"MF,FW",Sheriff Tiraspol,25,1997,3.3,5,3,1,3,1,2,4,50.0,2,5,1,4,6,11,5,0
+Roland Sallai,HUN,"FW,MF",Freiburg,25,1997,1.3,5,2,2,2,1,4,5,80.0,1,0,0,0,0,5,1,0
+Ulrik Saltnes,NOR,MF,Bodø/Glimt,29,1992,4.3,8,5,2,4,2,2,5,40.0,3,5,3,2,4,12,4,0
+Lars-Jørgen Salvesen,NOR,FW,Bodø/Glimt,26,1996,1.3,2,2,2,0,0,2,3,66.7,1,0,0,0,0,2,2,0
+Albert Sambi Lokonga,BEL,MF,Arsenal,22,1999,5.3,5,1,1,3,1,2,4,50.0,2,0,0,0,4,9,4,0
+Alfons Sampsted,ISL,DF,Bodø/Glimt,24,1998,6.0,14,9,8,5,1,10,15,66.7,5,2,2,0,7,21,10,0
+Jadon Sancho,ENG,"FW,MF",Manchester Utd,22,2000,5.5,8,6,1,5,2,4,10,40.0,6,9,0,9,3,11,0,0
+Alex Sandro,BRA,DF,Juventus,31,1991,4.2,10,8,4,5,1,5,10,50.0,5,4,2,2,5,15,18,1
+Ibrahim Sangaré,CIV,MF,PSV Eindhoven,24,1997,5.7,22,14,15,5,2,13,20,65.0,7,9,5,4,5,27,4,1
+Oier Sanjurjo,ESP,MF,AÉK Lárnaka,36,1986,3.0,5,2,3,2,0,1,2,50.0,1,6,1,5,2,7,11,0
+Sékou Sanogo,CIV,MF,Red Star,33,1989,2.6,4,2,3,1,0,1,6,16.7,5,2,1,1,3,7,5,0
+Baptiste Santamaria,FRA,MF,Rennes,27,1995,2.2,1,1,0,1,0,0,0,,0,3,2,1,3,4,1,0
+Ivan Santini,CRO,"FW,DF",Zürich,33,1989,0.3,1,1,0,0,1,0,0,,0,0,0,0,0,1,1,0
+Nuno Santos,POR,"DF,MF",Sporting CP,27,1995,3.5,5,5,2,3,0,5,7,71.4,2,0,0,0,5,10,2,0
+Anastasios Sapountzis,GRE,MF,Olympiacos,20,2002,0.5,0,0,0,0,0,0,1,0.0,1,0,0,0,1,1,1,0
+Manprit Sarkaria,AUT,"FW,MF",Sturm Graz,25,1996,1.4,1,0,0,1,0,1,6,16.7,5,1,0,1,0,1,0,0
+Malang Sarr,FRA,DF,Monaco,23,1999,3.2,4,2,3,1,0,1,3,33.3,2,3,3,0,11,15,7,0
+Sávio,BRA,FW,PSV Eindhoven,18,2004,0.6,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,0,0
+Kevin Schade,GER,"MF,FW",Freiburg,20,2001,1.4,1,1,0,0,1,0,1,0.0,1,1,0,1,0,1,2,0
+András Schäfer,HUN,MF,Union Berlin,23,1999,2.4,4,3,3,1,0,1,6,16.7,5,2,0,2,4,8,1,0
+Patrik Schick,CZE,FW,Leverkusen,26,1996,0.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Keven Schlotterbeck,GER,DF,Freiburg,25,1997,1.0,6,2,4,2,0,2,2,100.0,0,1,1,0,0,6,5,0
+Kenneth Schmidt,GER,DF,Freiburg,20,2002,0.5,0,0,0,0,0,0,0,,0,0,0,0,1,1,1,0
+David Schnegg,AUT,DF,Sturm Graz,23,1998,0.5,0,0,0,0,0,0,0,,0,3,0,3,2,2,1,0
+Nicolas Seiwald,AUT,MF,RB Salzburg,21,2001,1.8,8,5,5,3,0,6,8,75.0,2,2,0,2,1,9,5,0
+Patriot Sejdiu,KVX,"MF,FW",Malmö,22,2000,1.5,4,1,2,2,0,3,6,50.0,3,1,0,1,2,6,1,0
+Astrit Seljmani,KVX,FW,Midtjylland,24,1997,0.5,0,0,0,0,0,0,1,0.0,1,1,1,0,0,0,1,0
+Ole Selnæs,NOR,MF,Zürich,28,1994,5.2,7,4,3,3,1,2,7,28.6,5,7,2,5,6,13,11,0
+Nuno Sequeira,POR,DF,Braga,31,1990,5.8,13,7,5,5,3,7,13,53.8,6,7,1,6,5,18,8,0
+Japhet Sery,DEN,DF,Bodø/Glimt,22,2000,0.8,2,2,1,1,0,2,2,100.0,0,1,0,1,0,2,1,0
+Benjamin Šeško,SVN,FW,RB Salzburg,19,2003,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Stephan El Shaarawy,ITA,"DF,MF",Roma,29,1992,5.8,10,6,2,3,5,1,4,25.0,3,2,1,1,1,11,2,0
+Mykola Shaparenko,UKR,MF,Dynamo Kyiv,23,1998,0.7,3,3,2,1,0,2,2,100.0,0,1,0,1,1,4,2,0
+Luke Shaw,ENG,DF,Manchester Utd,27,1995,5.6,10,6,3,5,2,4,9,44.4,5,5,2,3,6,16,9,0
+Volodymyr Shepelyev,UKR,MF,Dynamo Kyiv,25,1997,3.7,1,0,1,0,0,0,2,0.0,2,2,0,2,5,6,4,0
+Ramil Sheydayev,AZE,"FW,MF",Qarabağ,26,1996,3.4,3,2,2,1,0,3,3,100.0,0,5,1,4,1,4,2,0
+Eldor Shomurodov,UZB,"FW,MF",Roma,27,1995,0.4,1,1,0,0,1,0,0,,0,0,0,0,0,1,0,0
+Show,ANG,MF,Ludogorets,23,1999,3.1,4,4,1,3,0,2,2,100.0,0,7,0,7,2,6,4,0
+Maryan Shved,UKR,MF,Shakhtar,25,1997,0.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Jörg Siebenhandl,AUT,GK,Sturm Graz,32,1990,6.0,0,0,0,0,0,0,0,,0,1,0,1,0,0,5,0
+Danylo Sikan,UKR,"FW,MF",Shakhtar,21,2001,1.0,2,2,2,0,0,2,3,66.7,1,0,0,0,0,2,1,0
+Kiliann Sildillia,FRA,"DF,MF",Freiburg,20,2002,6.0,11,8,6,2,3,6,15,40.0,9,5,2,3,12,23,8,0
+Bruno Felipe Souza da Silva,BRA,FW,AC Omonia,28,1994,4.4,2,1,0,2,0,0,1,0.0,1,0,0,0,0,2,0,0
+Caio Henrique Oliveira Silva,BRA,"DF,MF",Monaco,25,1997,8.2,18,13,11,6,1,12,15,80.0,3,6,1,5,9,27,9,0
+David Silva,ESP,MF,Real Sociedad,36,1986,3.9,5,3,1,3,1,0,7,0.0,7,6,0,6,3,8,2,0
+Fábio Silva,POR,FW,PSV Eindhoven,20,2002,0.6,2,0,1,1,0,0,0,,0,1,0,1,0,2,2,0
+Rui Silva,POR,GK,Betis,28,1994,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Moses Simon,NGA,"FW,MF",Nantes,27,1995,4.4,2,1,0,1,1,2,4,50.0,2,4,0,4,0,2,0,0
+Xavi Simons,NED,"FW,MF",PSV Eindhoven,19,2003,6.0,15,11,7,5,3,4,6,66.7,2,6,1,5,1,16,3,0
+Doguhan Simsir,DEN,FW,Midtjylland,20,2002,0.1,1,1,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+Emmanouil Siopis,GRE,MF,Trabzonspor,28,1994,3.2,7,5,0,6,1,4,9,44.4,5,1,0,1,5,12,3,0
+Hugo Siquet,BEL,DF,Freiburg,20,2002,0.8,2,1,2,0,0,2,3,66.7,1,1,0,1,2,4,4,0
+Moussa Sissoko,FRA,MF,Nantes,32,1989,4.8,12,6,2,10,0,5,8,62.5,3,4,0,4,5,17,7,0
+Pione Sisto,DEN,FW,Midtjylland,27,1995,3.0,1,0,1,0,0,1,8,12.5,7,1,0,1,1,2,0,0
+Tim Skarke,GER,MF,Union Berlin,25,1996,0.3,1,1,0,0,1,0,0,,0,1,0,1,0,1,0,0
+Chris Smalling,ENG,DF,Roma,32,1989,12.8,14,10,10,4,0,8,9,88.9,1,19,15,4,14,28,50,0
+Emile Smith Rowe,ENG,MF,Arsenal,22,2000,0.2,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Cédric Soares,POR,DF,Arsenal,30,1991,0.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Pyry Soiri,FIN,DF,HJK,27,1994,5.2,6,2,4,1,1,6,9,66.7,3,7,3,4,5,11,12,0
+Alex Sola,ESP,DF,Real Sociedad,23,1999,2.0,7,5,3,3,1,3,10,30.0,7,0,0,0,3,10,1,0
+Ola Solbakken,NOR,FW,Bodø/Glimt,23,1998,3.9,4,3,0,2,2,2,5,40.0,3,1,0,1,0,4,4,0
+Oumar Solet,FRA,DF,RB Salzburg,22,2000,2.0,2,0,2,0,0,1,2,50.0,1,4,1,3,4,6,11,0
+Matìas Soulé,ARG,"MF,FW",Juventus,19,2003,0.2,1,1,0,1,0,1,1,100.0,0,0,0,0,0,1,1,0
+Djed Spence,ENG,DF,Rennes,21,2000,2.3,0,0,0,0,0,0,0,,0,3,1,2,3,3,2,0
+Leonardo Spinazzola,ITA,DF,Roma,29,1993,10.1,11,5,6,2,3,10,17,58.8,7,8,1,7,4,15,7,0
+Slavoljub Srnić,SRB,"MF,DF",Red Star,30,1992,2.8,2,2,2,0,0,1,2,50.0,1,4,0,4,3,5,1,0
+Jerry St. Juste,NED,DF,Sporting CP,25,1996,4.8,3,2,3,0,0,2,2,100.0,0,4,1,3,5,8,7,0
+Taras Stepanenko,UKR,MF,Shakhtar,32,1989,3.7,12,5,7,4,1,5,16,31.3,11,9,4,5,4,16,10,0
+Jens Stryger Larsen,DEN,DF,Trabzonspor,31,1991,4.8,6,3,4,2,0,2,4,50.0,2,0,0,0,1,7,14,0
+Luka Sučić,CRO,MF,RB Salzburg,19,2002,1.4,3,3,1,1,1,3,6,50.0,3,2,0,2,1,4,0,0
+Heorhiy Sudakov,UKR,MF,Shakhtar,19,2002,4.3,1,1,0,1,0,1,8,12.5,7,4,0,4,2,3,7,0
+Kamaldeen Sulemana,GHA,"FW,MF",Rennes,20,2002,2.1,4,3,2,2,0,3,6,50.0,3,1,0,1,3,7,1,1
+Suso,ESP,"MF,DF",Sevilla,28,1993,3.2,10,7,3,4,3,6,8,75.0,2,1,0,1,1,11,0,0
+Erik Sviatchenko,DEN,DF,Midtjylland,30,1991,5.5,9,5,6,3,0,3,4,75.0,1,10,7,3,10,19,22,0
+Mile Svilar,SRB,GK,Roma,22,1999,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Serhiy Sydorchuk,UKR,MF,Dynamo Kyiv,31,1991,6.0,23,11,13,7,3,10,20,50.0,10,8,0,8,12,35,10,0
+Ross Sykes,ENG,DF,Union SG,23,1999,1.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,8,0
+Oleksandr Syrota,UKR,DF,Dynamo Kyiv,22,2000,4.2,6,5,4,2,0,2,3,66.7,1,6,1,5,6,12,14,0
+Attila Szalai,HUN,DF,Fenerbahçe,24,1998,8.0,13,10,9,4,0,7,10,70.0,3,6,2,4,10,23,19,0
+Wojciech Szczęsny,POL,GK,Juventus,32,1990,7.8,0,0,0,0,0,0,0,,0,0,0,0,0,0,4,0
+Sebastian Szymański,POL,"MF,FW",Feyenoord,23,1999,7.5,18,7,5,6,7,10,20,50.0,10,11,0,11,4,22,4,0
+Alexander Sørloth,NOR,FW,Real Sociedad,26,1995,4.7,2,2,0,1,1,0,1,0.0,1,3,2,1,0,2,4,0
+Mohamed Taabouni,NED,MF,Feyenoord,20,2002,0.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Dušan Tadić,SRB,"FW,MF",Ajax,33,1988,2.0,4,3,1,2,1,2,2,100.0,0,2,0,2,1,5,2,0
+Jonathan Tah,GER,DF,Leverkusen,26,1996,8.3,14,10,10,4,0,5,5,100.0,0,10,3,7,8,22,31,0
+Muhammet Taha Tepe,TUR,GK,Trabzonspor,21,2001,1.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Flavien Tait,FRA,MF,Rennes,29,1993,4.8,11,8,4,5,2,4,9,44.4,5,5,0,5,3,14,3,0
+Atomu Tanaka,JPN,MF,HJK,34,1987,0.4,0,0,0,0,0,0,0,,0,0,0,0,2,2,2,0
+Mateo Tanlongo,ARG,MF,Sporting CP,18,2003,0.2,1,0,1,0,0,1,1,100.0,0,0,0,0,0,1,1,0
+Edmond Tapsoba,BFA,DF,Leverkusen,23,1999,8.0,17,9,6,9,2,10,20,50.0,10,12,3,9,9,26,28,0
+Kenneth Taylor,NED,"MF,DF",Ajax,20,2002,2.0,2,2,0,1,1,1,4,25.0,3,2,0,2,3,5,5,0
+Lucas Taylor,BRA,DF,Shakhtar,27,1995,1.0,3,2,1,0,2,1,5,20.0,4,1,0,1,2,5,5,0
+Bernard Tekpetey,GHA,FW,Ludogorets,24,1997,5.1,9,4,3,2,4,5,12,41.7,7,5,0,5,2,11,1,0
+Alex Telles,BRA,DF,Sevilla,29,1992,3.6,7,4,4,3,0,5,7,71.4,2,4,2,2,5,12,8,0
+Miro Tenho,FIN,DF,HJK,27,1995,2.1,1,1,1,0,0,0,1,0.0,1,3,2,1,1,2,8,0
+Marc-André ter Stegen,GER,GK,Barcelona,30,1992,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Casper Terho,FIN,"FW,MF",HJK,19,2003,0.6,0,0,0,0,0,0,3,0.0,3,0,0,0,0,0,0,0
+Casper Terho,FIN,FW,Union SG,19,2003,0.5,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Martin Terrier,FRA,"FW,MF",Rennes,25,1997,4.3,12,4,5,7,0,4,5,80.0,1,3,0,3,3,15,4,0
+Georgi Terziev,BUL,DF,Ludogorets,30,1992,0.0,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+Teddy Teuma,MLT,MF,Union SG,28,1993,8.6,22,12,7,13,2,11,27,40.7,16,18,1,17,13,35,3,0
+Jordan Teze,NED,DF,PSV Eindhoven,22,1999,4.1,11,6,9,2,0,6,8,75.0,2,3,2,1,6,17,17,0
+Arthur Theate,BEL,DF,Rennes,22,2000,5.0,4,1,3,1,0,4,5,80.0,1,4,1,3,6,10,12,0
+Thiago,BRA,FW,Ludogorets,21,2001,3.9,5,1,0,2,3,2,5,40.0,3,3,0,3,0,5,2,0
+Jean Thierry Lazare,CIV,MF,Union SG,24,1998,7.7,12,7,5,6,1,6,13,46.2,7,13,1,12,4,16,3,0
+Morten Thorsby,NOR,MF,Union Berlin,26,1996,4.0,11,8,7,3,1,7,13,53.8,6,8,0,8,4,15,5,0
+Kieran Tierney,SCO,DF,Arsenal,25,1997,5.3,6,3,2,3,1,3,6,50.0,3,3,2,1,2,8,5,0
+Guus Til,NED,"MF,FW",PSV Eindhoven,24,1997,4.8,2,0,1,0,1,0,0,,0,7,1,6,1,3,1,0
+Jurriën Timber,NED,DF,Ajax,21,2001,2.0,2,0,1,1,0,1,2,50.0,1,2,1,1,1,3,5,0
+Quinten Timber,NED,MF,Feyenoord,21,2001,5.5,9,3,3,4,2,3,8,37.5,5,6,1,5,6,15,5,0
+Matías Tissera,ARG,FW,Ludogorets,25,1996,2.1,2,1,1,0,1,0,1,0.0,1,2,0,2,1,3,0,0
+Joona Toivio,FIN,DF,HJK,34,1988,0.4,1,0,1,0,0,0,0,,0,1,1,0,0,1,4,0
+Ola Toivonen,SWE,"FW,MF",Malmö,36,1986,1.7,1,1,1,0,0,0,1,0.0,1,3,0,3,0,1,0,0
+Karl Toko Ekambi,CMR,"MF,FW",Rennes,29,1992,1.9,5,2,2,2,1,1,2,50.0,1,1,0,1,1,6,0,0
+Takehiro Tomiyasu,JPN,DF,Arsenal,23,1998,4.4,11,8,5,4,2,6,6,100.0,0,2,0,2,4,15,7,0
+Nenad Tomović,SRB,DF,AÉK Lárnaka,34,1987,6.0,2,1,2,0,0,1,1,100.0,0,8,3,5,12,14,25,0
+Dmytro Topalov,UKR,"DF,MF",Shakhtar,24,1998,1.9,2,0,2,0,0,0,2,0.0,2,2,0,2,2,4,2,0
+Vítor Tormena,BRA,DF,Braga,26,1996,5.0,8,3,6,1,1,3,3,100.0,0,4,4,0,4,12,16,1
+Ferrán Torres,ESP,FW,Barcelona,22,2000,0.3,1,0,1,0,0,0,0,,0,0,0,0,0,1,0,0
+Óliver Torres,ESP,MF,Sevilla,27,1994,5.6,7,3,3,3,1,3,12,25.0,9,9,0,9,1,8,1,0
+Adama Traoré,MLI,FW,Ferencváros,27,1995,7.0,11,6,5,5,1,3,4,75.0,1,5,2,3,3,14,7,0
+Charles Traore,MLI,"DF,MF",Nantes,30,1992,0.9,3,3,2,1,0,3,4,75.0,1,2,1,1,1,4,6,0
+Hamari Traoré,MLI,DF,Rennes,30,1992,2.9,10,7,6,3,1,6,9,66.7,3,2,0,2,4,14,10,0
+Gernot Trauner,AUT,DF,Feyenoord,30,1992,9.5,11,7,7,3,1,10,14,71.4,4,12,7,5,8,19,26,0
+Trézéguet,EGY,"FW,MF",Trabzonspor,27,1994,5.0,5,3,2,2,1,2,5,40.0,3,6,0,6,4,9,1,0
+Ivan Tričkovski,MKD,"MF,FW",AÉK Lárnaka,35,1987,2.5,2,0,1,1,0,1,4,25.0,3,1,0,1,2,4,2,0
+Christopher Trimmel,AUT,DF,Union Berlin,35,1987,6.1,12,8,5,5,2,5,12,41.7,7,3,0,3,9,21,13,1
+Francisco Trincão,POR,"FW,MF",Sporting CP,22,1999,4.4,4,3,2,0,2,1,4,25.0,3,2,0,2,1,5,3,0
+Leandro Trossard,BEL,FW,Arsenal,27,1994,0.8,0,0,0,0,0,0,0,,0,1,0,1,0,0,0,0
+Anatolii Trubin,UKR,GK,Shakhtar,20,2001,4.3,0,0,0,0,0,0,0,,0,0,0,0,0,0,3,0
+Adrien Truffert,FRA,"DF,FW",Rennes,20,2001,4.7,8,4,4,4,0,2,3,66.7,1,6,1,5,1,9,9,0
+Viktor Tsyhankov,UKR,"FW,MF",Dynamo Kyiv,24,1997,5.9,9,2,4,3,2,4,6,66.7,2,4,0,4,1,10,3,0
+Hüseyin Türkmen,TUR,DF,Trabzonspor,24,1998,0.5,0,0,0,0,0,0,0,,0,1,1,0,0,0,1,0
+Matt Turner,USA,GK,Arsenal,28,1994,5.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,5,2
+Beñat Turrientes,ESP,"MF,FW",Real Sociedad,20,2002,1.6,6,4,2,2,2,3,8,37.5,5,0,0,0,2,8,2,0
+Oleksandr Tymchyk,UKR,DF,Dynamo Kyiv,25,1997,2.8,2,2,1,1,0,0,0,,0,5,1,4,3,5,5,0
+Kostas Tzolakis,GRE,GK,Olympiacos,19,2002,2.0,0,0,0,0,0,0,1,0.0,1,0,0,0,0,0,0,0
+Manuel Ugarte Ribeiro,URU,MF,Sporting CP,21,2001,4.1,24,16,10,11,3,15,21,71.4,6,7,1,6,5,29,7,0
+Lesley Ugochukwu,FRA,MF,Rennes,18,2004,5.6,14,9,4,8,2,4,7,57.1,3,10,1,9,8,22,7,0
+Hwang Ui-jo,KOR,FW,Olympiacos,29,1992,4.4,1,1,1,0,0,0,1,0.0,1,3,0,3,3,4,4,0
+Andreas Ulmer,AUT,DF,RB Salzburg,36,1985,2.0,3,2,1,2,0,1,3,33.3,2,3,0,3,5,8,3,0
+Naci Ünüvar,NED,"FW,MF",Trabzonspor,19,2003,0.3,2,2,1,0,1,1,1,100.0,0,0,0,0,0,2,0,0
+Francis Uzoho,NGA,GK,AC Omonia,23,1998,3.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,1
+Santeri Väänänen,FIN,MF,HJK,20,2002,5.5,14,5,6,6,2,7,16,43.8,9,6,2,4,4,18,4,0
+Tomáš Vaclík,CZE,GK,Olympiacos,33,1989,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Mathieu Valbuena,FRA,"FW,MF",Olympiacos,37,1984,0.5,3,1,1,2,0,1,2,50.0,1,1,0,1,0,3,0,0
+Enner Valencia,ECU,"FW,MF",Fenerbahçe,32,1989,4.6,2,1,0,1,1,2,4,50.0,2,4,0,4,0,2,0,0
+Ignace Van Der Brempt,BEL,DF,RB Salzburg,20,2002,0.2,2,1,1,1,0,2,3,66.7,1,0,0,0,0,2,0,0
+Siebe Van Der Heyden,BEL,DF,Union SG,24,1998,8.0,16,10,8,7,1,10,13,76.9,3,4,1,3,9,25,30,0
+Vladyslav Vanat,UKR,FW,Dynamo Kyiv,20,2002,2.4,0,0,0,0,0,0,0,,0,2,2,0,0,0,0,0
+Vanderson,BRA,"DF,MF",Monaco,21,2001,3.8,12,7,1,10,1,7,13,53.8,6,6,0,6,9,21,5,1
+Dante Vanzeir,BEL,FW,Union SG,24,1998,4.4,2,0,0,1,1,0,2,0.0,2,3,0,3,0,2,0,0
+Raphaël Varane,FRA,DF,Manchester Utd,29,1993,4.5,3,3,2,1,0,1,3,33.3,2,3,0,3,4,7,20,0
+Matías Vecino,URU,MF,Lazio,30,1991,2.7,3,2,1,2,0,2,6,33.3,4,1,0,1,4,7,1,0
+Bálint Vécsei,HUN,MF,Ferencváros,29,1993,6.1,15,8,5,8,2,4,12,33.3,8,13,7,6,9,24,14,1
+Joey Veerman,NED,MF,PSV Eindhoven,23,1998,6.8,12,5,8,4,0,8,14,57.1,6,10,1,9,5,17,10,0
+Olivier Verdon,BEN,DF,Ludogorets,26,1995,6.0,2,2,2,0,0,1,1,100.0,0,2,1,1,7,9,18,1
+Yorbe Vertessen,BEL,FW,Union SG,21,2001,2.0,0,0,0,0,0,0,0,,0,3,1,2,0,0,2,0
+Yorbe Vertessen,BEL,FW,PSV Eindhoven,21,2001,1.6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+Marko Vešović,MNE,DF,Qarabağ,30,1991,5.9,12,8,7,3,2,5,10,50.0,5,6,2,4,5,17,6,0
+Hugo Vetlesen,NOR,MF,Bodø/Glimt,22,2000,5.6,6,4,1,3,2,1,4,25.0,3,5,0,5,1,7,0,0
+William Vick,DEN,"FW,MF",Sturm Graz,19,2003,4.0,3,2,1,0,2,3,5,60.0,2,5,0,5,2,5,1,0
+Fabio Vieira,POR,MF,Arsenal,22,2000,7.4,4,2,1,2,1,0,1,0.0,1,6,0,6,3,7,1,0
+Matías Viña,URU,DF,Roma,24,1997,2.7,5,4,3,2,0,3,4,75.0,1,2,0,2,5,10,4,0
+Vitinha,POR,FW,Braga,22,2000,4.5,2,0,0,0,2,2,10,20.0,8,3,0,3,0,2,3,0
+Bohdan Viunnyk,UKR,FW,Zürich,20,2002,1.1,2,1,0,1,1,2,3,66.7,1,0,0,0,1,3,0,0
+Kostiantyn Vivcharenko,UKR,DF,Dynamo Kyiv,20,2002,2.4,6,5,4,2,0,3,6,50.0,3,1,0,1,4,10,3,0
+Felipe Vizeu,BRA,FW,Sheriff Tiraspol,25,1997,1.2,0,0,0,0,0,0,0,,0,0,0,0,0,0,2,0
+Dušan Vlahović,SRB,FW,Juventus,22,2000,5.1,0,0,0,0,0,0,3,0.0,3,3,0,3,1,1,3,0
+Kevin Volland,GER,FW,Monaco,30,1992,2.7,3,3,0,2,1,1,3,33.3,2,4,1,3,0,3,0,0
+Cristian Volpato,ITA,"MF,DF",Roma,18,2003,1.4,2,2,1,1,0,0,0,,0,1,0,1,0,2,0,0
+Marious Vrousai,GRE,"MF,DF",Olympiacos,24,1998,2.3,6,4,5,0,1,5,7,71.4,2,1,0,1,2,8,5,0
+Šime Vrsaljko,CRO,DF,Olympiacos,30,1992,3.3,7,4,4,2,1,7,8,87.5,1,3,2,1,6,13,6,0
+Robert Wagner,GER,MF,Freiburg,19,2003,1.0,3,3,2,1,0,2,5,40.0,3,1,0,1,5,8,3,0
+Patrik Wålemark,SWE,FW,Feyenoord,20,2001,2.1,3,1,3,0,0,1,1,100.0,0,1,0,1,2,5,1,0
+Aaron Wan-Bissaka,ENG,DF,Manchester Utd,24,1997,4.6,8,5,3,5,0,3,5,60.0,2,6,1,5,8,16,14,1
+Wout Weghorst,NED,"FW,MF",Manchester Utd,29,1992,4.2,6,1,1,4,1,2,7,28.6,5,8,3,5,2,8,5,0
+Noah Weißhaupt,GER,"MF,FW",Freiburg,20,2001,1.6,5,2,3,1,1,1,2,50.0,1,1,0,1,0,5,1,0
+Timon Wellenreuther,GER,GK,Feyenoord,26,1995,2.0,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Brice Wembangomo,NOR,DF,Bodø/Glimt,25,1996,5.0,8,4,5,3,0,5,5,100.0,0,7,2,5,4,12,11,0
+Ben White,ENG,DF,Arsenal,24,1997,4.4,8,3,1,5,2,5,10,50.0,5,5,2,3,4,12,3,0
+Mats Wieffer,NED,MF,Feyenoord,22,1999,4.8,5,1,0,4,1,1,8,12.5,7,8,2,6,9,14,10,1
+Georginio Wijnaldum,NED,MF,Roma,31,1990,3.6,0,0,0,0,0,0,4,0.0,4,2,2,0,3,3,7,0
+Owen Wijndal,NED,DF,Ajax,22,1999,0.5,0,0,0,0,0,0,0,,0,0,0,0,0,0,1,0
+Henry Wingo,USA,DF,Ferencváros,26,1995,5.2,7,4,6,1,0,3,3,100.0,0,6,3,3,1,8,18,1
+Florian Wirtz,GER,"MF,FW",Leverkusen,19,2003,8.0,7,4,2,4,1,1,9,11.1,8,12,1,11,0,7,2,0
+Aslak Witry,NOR,DF,Ludogorets,26,1996,4.5,11,7,8,1,2,7,12,58.3,5,5,0,5,10,21,10,0
+Jeong Woo-yeong,KOR,"MF,FW",Freiburg,22,1999,2.8,2,1,1,1,0,0,3,0.0,3,0,0,0,2,4,0,0
+Christopher Wooh,CMR,DF,Rennes,20,2001,1.0,0,0,0,0,0,0,0,,0,1,1,0,3,3,4,0
+Gregory Wüthrich,SUI,DF,Sturm Graz,27,1994,5.5,5,4,4,1,0,4,4,100.0,0,3,1,2,10,15,17,0
+Granit Xhaka,SUI,MF,Arsenal,29,1992,6.3,12,9,2,7,3,4,8,50.0,4,5,4,1,2,14,5,0
+Mert Yandaş,TUR,MF,Fenerbahçe,27,1994,1.2,2,1,2,0,0,0,5,0.0,5,0,0,0,1,3,1,0
+Yusuf Yazıcı,TUR,"FW,MF",Trabzonspor,25,1997,1.9,0,0,0,0,0,0,2,0.0,2,1,0,1,0,0,0,0
+Johannes Yli-Kokko,FIN,MF,HJK,20,2001,0.1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0
+İsmail Yüksek,TUR,MF,Fenerbahçe,23,1999,4.0,12,6,5,7,0,5,10,50.0,5,3,1,2,9,21,3,0
+Héctor Yuste,ESP,DF,AC Omonia,34,1988,3.8,6,4,5,1,0,2,3,66.7,1,5,4,1,7,13,23,0
+Illia Zabarnyi,UKR,DF,Dynamo Kyiv,19,2002,4.7,12,5,5,6,1,8,11,72.7,3,7,4,3,4,16,12,1
+Mattia Zaccagni,ITA,FW,Lazio,27,1995,3.5,4,2,2,2,0,1,3,33.3,2,2,0,2,3,7,1,0
+Kristoffer Zachariassen,NOR,"FW,MF",Ferencváros,27,1994,8.0,12,9,5,7,0,5,17,29.4,12,4,1,3,6,18,9,0
+Panayiotis Zachariou,CYP,FW,AC Omonia,26,1996,0.3,1,0,0,1,0,0,0,,0,0,0,0,1,2,0,0
+Miha Zajc,SVN,MF,Fenerbahçe,28,1994,1.4,1,1,0,1,0,1,1,100.0,0,0,0,0,1,2,2,0
+Nicola Zalewski,POL,DF,Roma,20,2002,9.5,15,9,7,6,2,11,29,37.9,18,11,1,10,15,30,10,0
+Nicolò Zaniolo,ITA,"MF,FW",Roma,23,1999,2.3,1,1,1,0,0,1,1,100.0,0,1,0,1,1,2,0,0
+Moustafa Zeidan,PLE,MF,Malmö,24,1998,0.8,0,0,0,0,0,0,0,,0,1,0,1,1,1,0,0
+Oleksandr Zinchenko,UKR,DF,Arsenal,25,1996,2.3,4,2,0,2,2,2,6,33.3,4,2,1,1,3,7,2,0
+Abdellah Zoubir,FRA,FW,Qarabağ,30,1991,6.0,4,2,1,3,0,1,3,33.3,2,6,0,6,8,12,2,0
+Igor Zubeldia,ESP,DF,Real Sociedad,25,1997,4.1,8,7,5,2,1,4,5,80.0,1,1,1,0,1,9,7,0
+Martín Zubimendi,ESP,MF,Real Sociedad,23,1999,4.0,3,1,2,1,0,1,5,20.0,4,5,0,5,12,15,6,0
+Oleksandr Zubkov,UKR,MF,Shakhtar,25,1996,3.8,11,6,6,4,1,8,18,44.4,10,3,0,3,2,13,8,0
+Nino Žugelj,SVN,FW,Bodø/Glimt,22,2000,0.2,0,0,0,0,0,0,0,,0,0,0,0,1,1,0,0
+Martin Ødegaard,NOR,MF,Arsenal,23,1998,2.7,5,0,1,4,0,2,2,100.0,0,1,0,1,2,7,0,0
+Neven Đurasek,CRO,MF,Shakhtar,23,1998,1.3,5,3,2,3,0,2,4,50.0,2,1,0,1,1,6,4,0
