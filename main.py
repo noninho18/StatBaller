@@ -50,11 +50,17 @@ def st_interface():
         title="2024-2025 Season",
         icon=":material/bar_chart:",
     )
+    project_5_page = st.Page(
+        page="views/int_comps.py",
+        title="Euro, Copa, WC",
+        icon=":material/bar_chart:",
+    )
 
     pg = st.navigation(
         {
             "Chatbot": [about_page],
-            "Stats": [project_1_page, project_2_page, project_3_page, project_4_page],
+            "Leagues Stats" : [project_1_page, project_2_page, project_3_page, project_4_page],
+            "Int. Competition Stats" : [project_5_page]
         }
     )
     st.logo("images/logo.webp", size="large")
