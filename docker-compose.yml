@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  streamlit:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./Data:/app/Data
+      - ./views:/app/views
+      - ./utils:/app/utils
+    environment:
+      - STREAMLIT_ENV=production
+
+  airflow:
+    image: apache/airflow:latest
+    command: standalone
+    environment:
+      - AIRFLOW__WEBSERVER__RBAC=True
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./logs:/opt/airflow/logs
+      - ./plugins:/opt/airflow/plugins
+    restart: always
