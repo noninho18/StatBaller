@@ -1,23 +1,8 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
-import sys
 
-sys.path.append('/utils/extraction')
-
-from mainExtraction import (
-    basic_stats_scrape,
-    GK_stats_scrape,
-    GK_adv_stats_scrape,
-    Shooting_stats_scrape,
-    Passing_stats_scrape,
-    PassTypes_stats_scrape,
-    Goal_ShotCreation_stats_scrape,
-    DefActions_stats_scrape,
-    Possession_stats_scrape,
-    PlayingTime_stats_scrape,
-    Misc_stats_scrape
-)
+from utils.extraction.mainExtraction import *
 
 default_args = {
     'owner': 'airflow',
