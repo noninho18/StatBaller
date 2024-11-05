@@ -7,7 +7,7 @@ from utils.csv.to_csv import into_csv, combine_csv
 def data_to_csv(leagues, columns, filename):
     league_data = []
     for league_name, url in leagues.items():
-        folder = "Data/"
+        folder = "/app/Data/"
         year = re.search(r"\d{4}-\d{4}", url)
         if year == None:
             if 'Copa-America' in url :

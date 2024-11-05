@@ -1,20 +1,20 @@
 import streamlit as st
 
 from PIL import Image
-from utils.extraction.mainExtraction import *
+# from utils.extraction.mainExtraction import *
 
-def scraper():
-    basic_stats_scrape()
-    GK_stats_scrape()
-    GK_adv_stats_scrape()
-    Shooting_stats_scrape()
-    Passing_stats_scrape()
-    PassTypes_stats_scrape()
-    Goal_ShotCreation_stats_scrape()
-    DefActions_stats_scrape()
-    Possession_stats_scrape()
-    PlayingTime_stats_scrape()
-    Misc_stats_scrape()
+# def scraper():
+#     basic_stats_scrape()
+#     GK_stats_scrape()
+#     GK_adv_stats_scrape()
+#     Shooting_stats_scrape()
+#     Passing_stats_scrape()
+#     PassTypes_stats_scrape()
+#     Goal_ShotCreation_stats_scrape()
+#     DefActions_stats_scrape()
+#     Possession_stats_scrape()
+#     PlayingTime_stats_scrape()
+#     Misc_stats_scrape()
 
 def st_interface():
 
@@ -69,5 +69,4 @@ def st_interface():
     pg.run()
 
 if __name__ == "__main__":
-    # scraper()
     st_interface()

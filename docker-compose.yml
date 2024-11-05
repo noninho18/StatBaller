@@ -23,6 +23,7 @@ services:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
       - ./plugins:/opt/airflow/plugins
+      - ./Data:/app/Data
     ports:
       - "8080:8080"
     command: ["standalone"]
