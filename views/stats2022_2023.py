@@ -3,7 +3,6 @@ import pandas as pd
 
 from mplsoccer import VerticalPitch
 
-
 st.title("Player stats during the 2022-2023 season")
 
 filepath = "./Data/2022-2023/"
@@ -12,7 +11,7 @@ league_options = ['Champions League', 'Europa League', 'Top 5 Leagues', 'Ligue 1
 selected_league = st.selectbox("Select a competition", league_options)
 
 stats_options = ['Overall', 'Goalkeeper', 'Defensive', 'Creativity', 'Passing', 'Shooting', 'Possession']
-selected_stats = st.selectbox("Select he type of stats", stats_options)
+selected_stats = st.selectbox("Select the type of stats", stats_options)
 
 
 dico = {'Overall': "_Basic_stats.csv",

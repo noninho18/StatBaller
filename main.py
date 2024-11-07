@@ -1,20 +1,6 @@
 import streamlit as st
 
 from PIL import Image
-# from utils.extraction.mainExtraction import *
-
-# def scraper():
-#     basic_stats_scrape()
-#     GK_stats_scrape()
-#     GK_adv_stats_scrape()
-#     Shooting_stats_scrape()
-#     Passing_stats_scrape()
-#     PassTypes_stats_scrape()
-#     Goal_ShotCreation_stats_scrape()
-#     DefActions_stats_scrape()
-#     Possession_stats_scrape()
-#     PlayingTime_stats_scrape()
-#     Misc_stats_scrape()
 
 def st_interface():
 
@@ -59,7 +45,8 @@ def st_interface():
     pg = st.navigation(
         {
             "Chatbot": [about_page],
-            "Leagues Stats" : [project_1_page, project_2_page, project_3_page, project_4_page],
+            "Player Stats & Comparison" : [project_1_page],
+            "Leagues Stats" : [project_2_page, project_3_page, project_4_page],
             "Int. Competition Stats" : [project_5_page]
         }
     )
